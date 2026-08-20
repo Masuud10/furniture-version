@@ -1,0 +1,293 @@
+[
+  {
+    "slug": "sofa-set-7-seater",
+    "kind": "video",
+    "source": "media-source/sofa-set-7-seater.mp4",
+    "posterAt": 1.5
+  },
+  {
+    "slug": "sofa-set-7-seater-still",
+    "kind": "image",
+    "source": "public/media/sofa-set-7-seater-poster.webp"
+  },
+  {
+    "slug": "corduroy-sofa-full",
+    "kind": "image",
+    "source": "media-source/corduroy-sofa-full.jpeg"
+  },
+  {
+    "slug": "corduroy-sofa-detail",
+    "kind": "image",
+    "source": "media-source/corduroy-sofa-detail.jpeg"
+  },
+  {
+    "slug": "corduroy-sofa",
+    "kind": "image",
+    "source": "media-source/corduroy-sofa.jpeg"
+  },
+  {
+    "slug": "shoe-rack-curved",
+    "kind": "image",
+    "source": "media-source/shoe-rack-curved.jpeg"
+  },
+  {
+    "slug": "leather-sofa-tan",
+    "kind": "image",
+    "source": "media-source/leather-sofa-tan.jpeg"
+  },
+  {
+    "slug": "round-table-styled",
+    "kind": "image",
+    "source": "media-source/round-table-styled.jpeg"
+  },
+  {
+    "slug": "round-table-detail",
+    "kind": "image",
+    "source": "media-source/round-table-detail.jpeg"
+  },
+  {
+    "slug": "dining-set-8-b",
+    "kind": "image",
+    "source": "media-source/dining-set-8-b.jpeg"
+  },
+  {
+    "slug": "dining-set-8-a",
+    "kind": "image",
+    "source": "media-source/dining-set-8-a.jpeg"
+  },
+  {
+    "slug": "dining-set-8-room",
+    "kind": "image",
+    "source": "media-source/dining-set-8-room.jpeg"
+  },
+  {
+    "slug": "sofa-set-7-seater-b",
+    "kind": "video",
+    "source": "media-source/sofa-set-7-seater-b.mp4",
+    "posterAt": 9.5
+  },
+  {
+    "slug": "sofa-set-7-seater-b-still",
+    "kind": "image",
+    "source": "public/media/sofa-set-7-seater-b-poster.webp"
+  },
+  {
+    "slug": "bed-mahogany-a",
+    "kind": "image",
+    "source": "media-source/bed-mahogany-a.jpeg"
+  },
+  {
+    "slug": "bed-mahogany-b",
+    "kind": "image",
+    "source": "media-source/bed-mahogany-b.jpeg"
+  },
+  {
+    "slug": "bunk-bed",
+    "kind": "video",
+    "source": "media-source/bunk-bed.mp4",
+    "posterAt": 17
+  },
+  {
+    "slug": "bunk-bed-still",
+    "kind": "image",
+    "source": "public/media/bunk-bed-poster.webp"
+  },
+  {
+    "slug": "dressing-table",
+    "kind": "image",
+    "source": "media-source/dressing-table.jpeg"
+  },
+  {
+    "slug": "green-sofa",
+    "kind": "image",
+    "source": "media-source/green-sofa.jpeg"
+  },
+  {
+    "slug": "dining-table-a",
+    "kind": "image",
+    "source": "media-source/dining-table-a.jpeg"
+  },
+  {
+    "slug": "dining-table-b",
+    "kind": "image",
+    "source": "media-source/dining-table-b.jpeg"
+  },
+  {
+    "slug": "cream-sofa-set",
+    "kind": "image",
+    "source": "media-source/cream-sofa-set.jpeg"
+  },
+  {
+    "slug": "cream-sofa-set-b",
+    "kind": "image",
+    "source": "media-source/cream-sofa-set-b.jpeg"
+  },
+  {
+    "slug": "cream-sofa-set-c",
+    "kind": "image",
+    "source": "media-source/cream-sofa-set-c.jpeg"
+  },
+  {
+    "slug": "wooden-bed-2",
+    "kind": "video",
+    "source": "media-source/wooden-bed-2.mp4",
+    "posterAt": 8
+  },
+  {
+    "slug": "wooden-bed-2-still",
+    "kind": "image",
+    "source": "public/media/wooden-bed-2-poster.webp"
+  },
+  {
+    "slug": "sofa-set-pocket-spring",
+    "kind": "video",
+    "source": "media-source/sofa-set-pocket-spring.mp4",
+    "posterAt": 9
+  },
+  {
+    "slug": "sofa-set-pocket-spring-still",
+    "kind": "image",
+    "source": "public/media/sofa-set-pocket-spring-poster.webp"
+  },
+  {
+    "slug": "square-coffee-table",
+    "kind": "image",
+    "source": "media-source/square-coffee-table.jpeg"
+  },
+  {
+    "slug": "grey-sofa-set-a",
+    "kind": "image",
+    "source": "media-source/grey-sofa-set-a.jpeg"
+  },
+  {
+    "slug": "grey-sofa-set-b",
+    "kind": "image",
+    "source": "media-source/grey-sofa-set-b.jpeg"
+  },
+  {
+    "slug": "grey-sofa-set-c",
+    "kind": "image",
+    "source": "media-source/grey-sofa-set-c.jpeg"
+  },
+  {
+    "slug": "navy-sofa-set-a",
+    "kind": "image",
+    "source": "media-source/navy-sofa-set-a.jpeg"
+  },
+  {
+    "slug": "navy-sofa-set-b",
+    "kind": "image",
+    "source": "media-source/navy-sofa-set-b.jpeg"
+  },
+  {
+    "slug": "navy-sofa-set-c",
+    "kind": "image",
+    "source": "media-source/navy-sofa-set-c.jpeg"
+  },
+  {
+    "slug": "navy-sofa-set-d",
+    "kind": "image",
+    "source": "media-source/navy-sofa-set-d.jpeg"
+  },
+  {
+    "slug": "rolled-arm-sofa-a",
+    "kind": "image",
+    "source": "media-source/rolled-arm-sofa-a.jpeg"
+  },
+  {
+    "slug": "rolled-arm-sofa-b",
+    "kind": "image",
+    "source": "media-source/rolled-arm-sofa-b.jpeg"
+  },
+  {
+    "slug": "mahogany-bed-3",
+    "kind": "video",
+    "source": "media-source/mahogany-bed-3.mp4",
+    "posterAt": 5
+  },
+  {
+    "slug": "mahogany-bed-3-still",
+    "kind": "image",
+    "source": "public/media/mahogany-bed-3-poster.webp"
+  },
+  {
+    "slug": "dining-design-1",
+    "kind": "image",
+    "source": "media-source/dining-design-1.jpeg"
+  },
+  {
+    "slug": "dining-design-10",
+    "kind": "image",
+    "source": "media-source/dining-design-10.jpeg"
+  },
+  {
+    "slug": "dining-design-11",
+    "kind": "image",
+    "source": "media-source/dining-design-11.jpeg"
+  },
+  {
+    "slug": "dining-design-2",
+    "kind": "image",
+    "source": "media-source/dining-design-2.jpeg"
+  },
+  {
+    "slug": "dining-design-3",
+    "kind": "image",
+    "source": "media-source/dining-design-3.jpeg"
+  },
+  {
+    "slug": "dining-design-4",
+    "kind": "image",
+    "source": "media-source/dining-design-4.jpeg"
+  },
+  {
+    "slug": "dining-design-5",
+    "kind": "image",
+    "source": "media-source/dining-design-5.jpeg"
+  },
+  {
+    "slug": "dining-design-6",
+    "kind": "image",
+    "source": "media-source/dining-design-6.jpeg"
+  },
+  {
+    "slug": "dining-design-7",
+    "kind": "image",
+    "source": "media-source/dining-design-7.jpeg"
+  },
+  {
+    "slug": "dining-design-8",
+    "kind": "image",
+    "source": "media-source/dining-design-8.jpeg"
+  },
+  {
+    "slug": "dining-design-9",
+    "kind": "image",
+    "source": "media-source/dining-design-9.jpeg"
+  },
+  {
+    "slug": "bunk-bed-ladder",
+    "kind": "image",
+    "source": "media-source/bunk-bed-ladder.jpeg"
+  },
+  {
+    "slug": "shoe-rack-curved-b",
+    "kind": "image",
+    "source": "media-source/shoe-rack-curved-b.jpeg"
+  },
+  {
+    "slug": "dressing-table-glass",
+    "kind": "image",
+    "source": "media-source/dressing-table-glass.jpeg"
+  },
+  {
+    "slug": "dressing-table-lit",
+    "kind": "image",
+    "source": "media-source/dressing-table-lit.jpeg"
+  },
+  {
+    "slug": "pedestal-dining-table",
+    "kind": "image",
+    "source": "media-source/pedestal-dining-table.jpeg"
+  }
+]

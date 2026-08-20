@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Furniture Version">
+  <title>Furniture Version</title>
+  <!--
+    The brand in miniature: a piece, measured. An outlined form with extension
+    lines dropping to an accent dimension line beneath it — the same drawing
+    language as the storefront's signature annotations, at 64px.
+    No text, so it needs no font and stays legible as a favicon.
+  -->
+  <rect width="64" height="64" fill="#fbfbfa"/>
+
+  <!-- the piece -->
+  <rect x="12.5" y="13.5" width="39" height="25" fill="none" stroke="#16181b" stroke-width="3"/>
+
+  <!-- extension lines -->
+  <line x1="12.5" y1="40" x2="12.5" y2="50" stroke="#83898f" stroke-width="1.5"/>
+  <line x1="51.5" y1="40" x2="51.5" y2="50" stroke="#83898f" stroke-width="1.5"/>
+
+  <!-- dimension line with end ticks -->
+  <line x1="12.5" y1="47" x2="51.5" y2="47" stroke="#1f4fd8" stroke-width="2.5"/>
+  <line x1="12.5" y1="43" x2="12.5" y2="51" stroke="#1f4fd8" stroke-width="2.5"/>
+  <line x1="51.5" y1="43" x2="51.5" y2="51" stroke="#1f4fd8" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,2123 @@
+{
+  "categories": [
+    {
+      "slug": "seating",
+      "name": "Sofas and chairs",
+      "blurb": "Frames in kiln-dried hardwood, joined and glued rather than stapled. Upholstery is removable, so it can be cleaned or replaced without replacing the piece.",
+      "updatedAt": "2026-07-28T09:00:00.000Z"
+    },
+    {
+      "slug": "tables",
+      "name": "Tables and desks",
+      "blurb": "Solid tops, not veneered board. Each one is finished with a hardwax oil you can repair in place with a cloth instead of sending the piece back to a workshop.",
+      "updatedAt": "2026-08-04T09:00:00.000Z"
+    },
+    {
+      "slug": "storage",
+      "name": "Storage",
+      "blurb": "Backs are set into grooves and drawers run on wooden runners. Measure the doorway before you order the wardrobe — it does not come apart.",
+      "updatedAt": "2026-08-11T09:00:00.000Z"
+    },
+    {
+      "slug": "beds",
+      "name": "Beds and bedroom",
+      "blurb": "Frames sized to standard Kenyan mattresses — 5 by 6, 6 by 6 — with the nightstands and dressing tables cut to match them. Mattresses are not included.",
+      "updatedAt": "2026-08-20T12:25:00.000Z"
+    }
+  ],
+  "pieces": [
+    {
+      "slug": "kaputei-three-seat-sofa",
+      "sku": "KPT-3S-CAN",
+      "name": "Kaputei three-seat sofa",
+      "type": "sofa",
+      "category": "seating",
+      "w": 2100,
+      "d": 900,
+      "h": 780,
+      "seatH": 430,
+      "basePriceMinor": "14500000",
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "featured": true,
+      "updatedAt": "2026-08-18T11:20:00.000Z",
+      "summary": "A three-seat sofa on a kiln-dried mahogany frame, with removable canvas covers and a seat you can sit back in rather than perch on.",
+      "descriptionMd": "The Kaputei was drawn around a 430 mm seat height and a 620 mm seat depth, which is the point where most people can put their feet flat on the floor and still lean back. The frame is kiln-dried mahogany, mortise-and-tenon at every corner, with webbing rather than a solid base so the seat gives slightly instead of going hard after a year.\n\nCovers come off. All four cushion cases and both arm covers unzip, which means a spill is a wash rather than a write-off, and a change of mind in five years is a re-cover rather than a new sofa.\n\nIt is built in three seat widths off the same frame. This is the largest.",
+      "careMd": "Vacuum the covers with a brush head every few weeks. Wash covers cold and line dry — do not tumble dry, the canvas will shrink onto the foam. Keep the piece out of direct afternoon sun, which fades canvas faster than use does.",
+      "variants": [
+        {
+          "name": "Natural canvas",
+          "material": "Canvas",
+          "swatchHex": "#D8D2C4",
+          "priceDeltaMinor": "0",
+          "sku": "KPT-3S-CAN",
+          "stockQty": null
+        },
+        {
+          "name": "Charcoal wool",
+          "material": "Wool",
+          "swatchHex": "#4A4E54",
+          "priceDeltaMinor": "1800000",
+          "sku": "KPT-3S-WOL",
+          "stockQty": null
+        },
+        {
+          "name": "Tan leather",
+          "material": "Leather",
+          "swatchHex": "#A9764B",
+          "priceDeltaMinor": "4200000",
+          "sku": "KPT-3S-LEA",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "kaputei-two-seat-sofa",
+      "sku": "KPT-2S-CAN",
+      "name": "Kaputei two-seat sofa",
+      "type": "sofa",
+      "category": "seating",
+      "w": 1560,
+      "d": 900,
+      "h": 780,
+      "seatH": 430,
+      "basePriceMinor": "11800000",
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "featured": false,
+      "updatedAt": "2026-08-18T11:20:00.000Z",
+      "summary": "The Kaputei frame at two seats, for a room where the three-seat version would block a walkway.",
+      "descriptionMd": "Same frame, same 430 mm seat height, same removable covers as the three-seat Kaputei — 540 mm narrower. At 1560 mm it fits along most apartment walls without crowding a doorway.\n\nIf you are choosing between the two, measure the wall and leave 700 mm of clear floor in front for a walkway.",
+      "careMd": "Vacuum the covers with a brush head every few weeks. Wash covers cold and line dry — do not tumble dry, the canvas will shrink onto the foam. Keep the piece out of direct afternoon sun.",
+      "variants": [
+        {
+          "name": "Natural canvas",
+          "material": "Canvas",
+          "swatchHex": "#D8D2C4",
+          "priceDeltaMinor": "0",
+          "sku": "KPT-2S-CAN",
+          "stockQty": null
+        },
+        {
+          "name": "Charcoal wool",
+          "material": "Wool",
+          "swatchHex": "#4A4E54",
+          "priceDeltaMinor": "1500000",
+          "sku": "KPT-2S-WOL",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "loita-armchair",
+      "sku": "LOI-AC-OAK",
+      "name": "Loita armchair",
+      "type": "armchair",
+      "category": "seating",
+      "w": 720,
+      "d": 780,
+      "h": 740,
+      "seatH": 420,
+      "basePriceMinor": "6200000",
+      "stockQty": 3,
+      "leadTimeDays": 14,
+      "featured": true,
+      "updatedAt": "2026-08-12T08:00:00.000Z",
+      "summary": "A compact armchair with a visible oak frame and a slung seat, narrow enough to pair without filling a room.",
+      "descriptionMd": "The Loita is the chair for the corner that a sofa cannot reach. The oak frame is left visible and finished with hardwax oil, so the joint lines are part of the piece rather than something hidden under fabric.\n\nAt 720 mm wide it takes less floor than most armchairs, and the open frame under the arms keeps it from reading as a solid block in a small room.",
+      "careMd": "Wipe the frame with a barely damp cloth. Re-oil the arms once a year, or whenever the wood starts to look dry where hands rest. Cushion cases unzip and wash cold.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "LOI-AC-OAK",
+          "stockQty": 3
+        },
+        {
+          "name": "Walnut",
+          "material": "Walnut",
+          "swatchHex": "#6B4A32",
+          "priceDeltaMinor": "900000",
+          "sku": "LOI-AC-WAL",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "nyeri-lounge-chair",
+      "sku": "NYE-LC-WAL",
+      "name": "Nyeri lounge chair",
+      "type": "armchair",
+      "category": "seating",
+      "w": 780,
+      "d": 860,
+      "h": 700,
+      "seatH": 380,
+      "basePriceMinor": "7400000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "featured": false,
+      "updatedAt": "2026-08-09T08:00:00.000Z",
+      "summary": "A low lounge chair with a reclined back and a 380 mm seat, made for reading rather than for dining height.",
+      "descriptionMd": "The back sits at 108 degrees and the seat at 380 mm, which is low. That is deliberate: it is a chair you settle into, and it is the wrong chair for a desk or a dining table.\n\nThe frame is walnut, and the seat is a single suspended panel rather than a sprung base, so the chair stays visually light despite its depth.",
+      "careMd": "Wipe the frame with a barely damp cloth and re-oil once a year. The seat panel can be unbolted and re-strung if it slackens.",
+      "variants": [
+        {
+          "name": "Walnut",
+          "material": "Walnut",
+          "swatchHex": "#6B4A32",
+          "priceDeltaMinor": "0",
+          "sku": "NYE-LC-WAL",
+          "stockQty": null
+        },
+        {
+          "name": "Mahogany",
+          "material": "Mahogany",
+          "swatchHex": "#7B3F2E",
+          "priceDeltaMinor": "-400000",
+          "sku": "NYE-LC-MAH",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "voi-dining-chair",
+      "sku": "VOI-DC-OAK",
+      "name": "Voi dining chair",
+      "type": "dining-chair",
+      "category": "seating",
+      "w": 460,
+      "d": 520,
+      "h": 840,
+      "seatH": 460,
+      "basePriceMinor": "1650000",
+      "stockQty": 12,
+      "leadTimeDays": 14,
+      "featured": false,
+      "updatedAt": "2026-08-14T08:00:00.000Z",
+      "summary": "A stackable oak dining chair at a 460 mm seat height, sized to sit six around the 1800 mm Athi table.",
+      "descriptionMd": "A dining chair has one job and a narrow set of numbers to hit. The Voi seat is 460 mm from the floor and the back stops at 840 mm, which clears the underside of the Athi table with room for a person's legs.\n\nAt 460 mm wide, six fit around the 1800 mm table and eight around the 2400 mm. They stack three high in a store cupboard.\n\nSold as a single chair. Order the quantity you need.",
+      "careMd": "Wipe with a barely damp cloth. Re-oil once a year. Check and tighten the seat bolts after the first few months — a new chair settles.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "VOI-DC-OAK",
+          "stockQty": 12
+        },
+        {
+          "name": "Oak, cane seat",
+          "material": "Cane",
+          "swatchHex": "#D6BE93",
+          "priceDeltaMinor": "350000",
+          "sku": "VOI-DC-CAN",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "naro-bench",
+      "sku": "NAR-BN-150",
+      "name": "Naro bench",
+      "type": "bench",
+      "category": "seating",
+      "w": 1500,
+      "d": 380,
+      "h": 450,
+      "basePriceMinor": "2900000",
+      "stockQty": 0,
+      "leadTimeDays": 14,
+      "featured": false,
+      "updatedAt": "2026-08-06T08:00:00.000Z",
+      "summary": "A 1500 mm oak bench at 450 mm high, for the end of a bed, a hallway, or the long side of a dining table.",
+      "descriptionMd": "One board, four legs, no upholstery. The top is a single glued oak panel rather than slats, so it takes bags and boots as readily as people.\n\nAt 450 mm it is bench height rather than dining height — comfortable to sit on at a table for a short meal, but the Voi chair is the better answer for a long one.",
+      "careMd": "Wipe with a barely damp cloth. Re-oil once a year, more often if it lives by a door and takes shoes.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "NAR-BN-150",
+          "stockQty": 0
+        }
+      ]
+    },
+    {
+      "slug": "athi-dining-table",
+      "sku": "ATH-DT-180",
+      "name": "Athi dining table, 1800",
+      "type": "dining-table",
+      "category": "tables",
+      "w": 1800,
+      "d": 900,
+      "h": 750,
+      "basePriceMinor": "9600000",
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "featured": true,
+      "updatedAt": "2026-08-17T10:00:00.000Z",
+      "summary": "A 1800 by 900 solid oak dining table on a trestle base, seating six without anyone straddling a leg.",
+      "descriptionMd": "The top is a solid oak panel, 32 mm thick, glued up from staves and finished with hardwax oil. It is not veneered board, which matters in ten years when a scratch can be sanded out rather than exposing a substrate.\n\nThe base is a trestle set 220 mm in from each end, so a chair can sit at the head of the table without a leg in the way. Clear height under the apron is 690 mm.\n\nSix Voi chairs fit around it comfortably. Eight is a squeeze.",
+      "careMd": "Wipe spills promptly — oil finish resists water but does not repel it forever. Re-oil the top once a year with a lint-free cloth; you do not need to sand first. A heat mark can be lifted with fine wool and fresh oil.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "ATH-DT-180-OAK",
+          "stockQty": null
+        },
+        {
+          "name": "Walnut",
+          "material": "Walnut",
+          "swatchHex": "#6B4A32",
+          "priceDeltaMinor": "2600000",
+          "sku": "ATH-DT-180-WAL",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "athi-dining-table-240",
+      "sku": "ATH-DT-240",
+      "name": "Athi dining table, 2400",
+      "type": "dining-table",
+      "category": "tables",
+      "w": 2400,
+      "d": 1000,
+      "h": 750,
+      "basePriceMinor": "12800000",
+      "stockQty": null,
+      "leadTimeDays": 35,
+      "featured": false,
+      "updatedAt": "2026-08-17T10:00:00.000Z",
+      "summary": "The Athi at 2400 by 1000, seating eight to ten. Check your doorway and stair turn before ordering.",
+      "descriptionMd": "The long Athi. Same 32 mm solid oak top and trestle base as the 1800, stretched to seat eight comfortably and ten at a push.\n\nThis piece does not come apart and it is heavy. Measure the narrowest point of the route into the room — doorways, stair turns, lift depth — before you order. If it will not go, we would rather know before it is built.",
+      "careMd": "Wipe spills promptly. Re-oil the top once a year with a lint-free cloth. A heat mark can be lifted with fine wool and fresh oil.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "ATH-DT-240-OAK",
+          "stockQty": null
+        },
+        {
+          "name": "Walnut",
+          "material": "Walnut",
+          "swatchHex": "#6B4A32",
+          "priceDeltaMinor": "3400000",
+          "sku": "ATH-DT-240-WAL",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "ruiru-coffee-table",
+      "sku": "RUI-CT-120",
+      "name": "Ruiru coffee table",
+      "type": "coffee-table",
+      "category": "tables",
+      "w": 1200,
+      "d": 600,
+      "h": 400,
+      "basePriceMinor": "3800000",
+      "stockQty": 2,
+      "leadTimeDays": 14,
+      "featured": true,
+      "updatedAt": "2026-08-15T10:00:00.000Z",
+      "summary": "A 1200 by 600 coffee table at 400 mm, which is 30 mm below the Kaputei seat so a cup is easy to reach.",
+      "descriptionMd": "Coffee table height is the whole design problem. At 400 mm the Ruiru sits 30 mm below the Kaputei seat, which is the range where reaching a cup does not mean leaning forward off the sofa.\n\nSolid oak top, 26 mm, on tapered legs set in from the corners so it does not catch shins.",
+      "careMd": "Wipe with a barely damp cloth. Re-oil once a year. Use a mat under anything hot — 400 mm is table height for mugs, and mugs leave rings.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "RUI-CT-120-OAK",
+          "stockQty": 2
+        },
+        {
+          "name": "Walnut",
+          "material": "Walnut",
+          "swatchHex": "#6B4A32",
+          "priceDeltaMinor": "1100000",
+          "sku": "RUI-CT-120-WAL",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "tana-side-table",
+      "sku": "TAN-ST-045",
+      "name": "Tana side table",
+      "type": "side-table",
+      "category": "tables",
+      "w": 450,
+      "d": 450,
+      "h": 550,
+      "basePriceMinor": "1950000",
+      "stockQty": 6,
+      "leadTimeDays": 10,
+      "featured": false,
+      "updatedAt": "2026-08-13T10:00:00.000Z",
+      "summary": "A 450 mm square side table at 550 mm — armrest height next to the Loita, bedside height next to the Mara.",
+      "descriptionMd": "Small, square, and at 550 mm it lands at armrest height beside the Loita armchair and at mattress height beside the Mara bed. That is the reason for the number.\n\nSolid oak throughout, including the legs. It is light enough to move with one hand.",
+      "careMd": "Wipe with a barely damp cloth. Re-oil once a year.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "TAN-ST-045-OAK",
+          "stockQty": 6
+        },
+        {
+          "name": "Walnut",
+          "material": "Walnut",
+          "swatchHex": "#6B4A32",
+          "priceDeltaMinor": "450000",
+          "sku": "TAN-ST-045-WAL",
+          "stockQty": 1
+        }
+      ]
+    },
+    {
+      "slug": "chania-writing-desk",
+      "sku": "CHA-WD-140",
+      "name": "Chania writing desk",
+      "type": "desk",
+      "category": "tables",
+      "w": 1400,
+      "d": 700,
+      "h": 750,
+      "basePriceMinor": "6700000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "featured": false,
+      "updatedAt": "2026-08-10T10:00:00.000Z",
+      "summary": "A 1400 by 700 desk at standard 750 mm, with one shallow drawer and a cable slot cut through the back rail.",
+      "descriptionMd": "A desk deep enough for a monitor at arm's length and a notebook in front of it, which 700 mm just manages and 600 mm does not.\n\nThere is one drawer, 80 mm deep, on wooden runners. There is a 60 mm cable slot cut through the back rail, because the alternative is a cable draped over the edge for the life of the desk.\n\nClear height under the drawer is 640 mm.",
+      "careMd": "Wipe with a barely damp cloth. Re-oil once a year. Rub a candle stub on the drawer runners if they start to stick.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "CHA-WD-140-OAK",
+          "stockQty": null
+        },
+        {
+          "name": "Walnut",
+          "material": "Walnut",
+          "swatchHex": "#6B4A32",
+          "priceDeltaMinor": "1400000",
+          "sku": "CHA-WD-140-WAL",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "meru-sideboard",
+      "sku": "MER-SB-160",
+      "name": "Meru sideboard",
+      "type": "sideboard",
+      "category": "storage",
+      "w": 1600,
+      "d": 450,
+      "h": 800,
+      "basePriceMinor": "8800000",
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "featured": true,
+      "updatedAt": "2026-08-16T10:00:00.000Z",
+      "summary": "A three-door sideboard at 800 mm high and 450 mm deep, sized to hold dinner plates behind every door.",
+      "descriptionMd": "Three doors, three bays, one adjustable shelf in each. Internal bay height is 620 mm and internal depth is 400 mm, which takes a stack of dinner plates and a serving dish without turning anything sideways.\n\nThe back is a solid panel set into grooves rather than a pinned hardboard sheet, which is most of the difference between a carcass that stays square and one that racks.\n\nDoors are push-catch. There are no handles to catch a hip in a narrow dining room.",
+      "careMd": "Wipe with a barely damp cloth. Re-oil the top once a year — it is the surface that takes the wear. Adjust the shelf pins before loading rather than after.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "MER-SB-160-OAK",
+          "stockQty": null
+        },
+        {
+          "name": "Walnut",
+          "material": "Walnut",
+          "swatchHex": "#6B4A32",
+          "priceDeltaMinor": "2400000",
+          "sku": "MER-SB-160-WAL",
+          "stockQty": null
+        },
+        {
+          "name": "Mahogany",
+          "material": "Mahogany",
+          "swatchHex": "#7B3F2E",
+          "priceDeltaMinor": "800000",
+          "sku": "MER-SB-160-MAH",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "kericho-bookshelf",
+      "sku": "KER-BS-190",
+      "name": "Kericho bookshelf",
+      "type": "bookshelf",
+      "category": "storage",
+      "w": 900,
+      "d": 320,
+      "h": 1900,
+      "basePriceMinor": "5400000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "featured": false,
+      "updatedAt": "2026-08-08T10:00:00.000Z",
+      "summary": "A 1900 mm bookshelf with five bays and 25 mm shelves that hold a full span of hardbacks without bowing.",
+      "descriptionMd": "Shelf thickness is the number that matters in a bookshelf, and 25 mm across a 900 mm span is what stops the sag you see on a shelf two years in.\n\nFive bays. The lowest is 380 mm for large formats; the rest are 300 mm. Depth is 320 mm, which takes most hardbacks front-to-back with a little air.\n\nIt is tall and narrow. Fix it to the wall with the supplied bracket, particularly if there are children in the house.",
+      "careMd": "Dust with a dry cloth. Re-oil every couple of years — a bookshelf sees little hand contact. Check the wall bracket when you move it.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "KER-BS-190-OAK",
+          "stockQty": null
+        },
+        {
+          "name": "Mahogany",
+          "material": "Mahogany",
+          "swatchHex": "#7B3F2E",
+          "priceDeltaMinor": "600000",
+          "sku": "KER-BS-190-MAH",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "sagana-wardrobe",
+      "sku": "SAG-WR-180",
+      "name": "Sagana wardrobe",
+      "type": "wardrobe",
+      "category": "storage",
+      "w": 1800,
+      "d": 600,
+      "h": 2100,
+      "basePriceMinor": "16500000",
+      "stockQty": null,
+      "leadTimeDays": 42,
+      "featured": false,
+      "updatedAt": "2026-08-05T10:00:00.000Z",
+      "summary": "A two-door hanging wardrobe, 2100 mm tall and 600 mm deep, with a full-width rail and a shelf above it.",
+      "descriptionMd": "600 mm of depth is what a coat on a hanger actually needs; anything shallower and the shoulders press against the door. The rail runs the full 1800 mm, with a 300 mm shelf above it for things you reach for twice a year.\n\nThis is the largest piece in the catalogue and it does not come apart. Before you order, measure the doorway, the stair turn and the ceiling height in the room — 2100 mm needs about 2200 mm of clearance to stand up once it is inside.\n\nIf your route will not take it, tell us. We would rather build it in two halves than deliver something that cannot get in.",
+      "careMd": "Wipe with a barely damp cloth. Re-oil the doors once a year. Leave 20 mm behind the back panel for airflow if the wall is an outside wall.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "SAG-WR-180-OAK",
+          "stockQty": null
+        },
+        {
+          "name": "Mahogany",
+          "material": "Mahogany",
+          "swatchHex": "#7B3F2E",
+          "priceDeltaMinor": "1200000",
+          "sku": "SAG-WR-180-MAH",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "mara-bed-frame",
+      "sku": "MAR-BF-QUE",
+      "name": "Mara bed frame, queen",
+      "type": "bed",
+      "category": "beds",
+      "w": 1650,
+      "d": 2100,
+      "h": 900,
+      "basePriceMinor": "9200000",
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "featured": true,
+      "updatedAt": "2026-08-16T10:00:00.000Z",
+      "summary": "A queen frame with a slatted base sized for a 1500 by 2000 mattress, bolted so it comes apart when you move.",
+      "descriptionMd": "Built for a standard Kenyan queen mattress, 1500 by 2000 mm. The slat base is 14 slats on a centre rail, spaced under 75 mm apart, which is what a foam mattress needs to avoid dipping between them.\n\nThe frame bolts together rather than gluing. It comes apart into headboard, footboard, two rails and the slat set, which is the difference between a bed that moves house and a bed that gets left behind.\n\nThe headboard is 900 mm from the floor — high enough to lean against sitting up.\n\nMattress is not included.",
+      "careMd": "Tighten the bolts after the first month and once a year after. Wipe with a barely damp cloth and re-oil the headboard once a year, since it takes the most contact.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "MAR-BF-QUE-OAK",
+          "stockQty": null
+        },
+        {
+          "name": "Walnut",
+          "material": "Walnut",
+          "swatchHex": "#6B4A32",
+          "priceDeltaMinor": "2200000",
+          "sku": "MAR-BF-QUE-WAL",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "mara-bed-frame-king",
+      "sku": "MAR-BF-KIN",
+      "name": "Mara bed frame, king",
+      "type": "bed",
+      "category": "beds",
+      "w": 1950,
+      "d": 2100,
+      "h": 900,
+      "basePriceMinor": "10800000",
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "featured": false,
+      "updatedAt": "2026-08-16T10:00:00.000Z",
+      "summary": "The Mara sized for a 1800 by 2000 king mattress, with a second centre rail under the slats.",
+      "descriptionMd": "The same bolted frame and slat spacing as the queen Mara, widened for a 1800 by 2000 mm mattress. The extra width gets a second centre rail, because one rail across 1800 mm is where slat bases start to give.\n\nAllow 600 mm of clear floor on each side you want to walk down. In a 3 metre room this frame leaves very little.\n\nMattress is not included.",
+      "careMd": "Tighten the bolts after the first month and once a year after. Wipe with a barely damp cloth and re-oil the headboard once a year.",
+      "variants": [
+        {
+          "name": "Oak, natural",
+          "material": "Oak",
+          "swatchHex": "#C8A06A",
+          "priceDeltaMinor": "0",
+          "sku": "MAR-BF-KIN-OAK",
+          "stockQty": null
+        },
+        {
+          "name": "Walnut",
+          "material": "Walnut",
+          "swatchHex": "#6B4A32",
+          "priceDeltaMinor": "2600000",
+          "sku": "MAR-BF-KIN-WAL",
+          "stockQty": null
+        }
+      ]
+    }
+  ],
+  "realPieces": [
+    {
+      "slug": "sofa-set-seven-seater",
+      "sku": "FV-SS7",
+      "name": "Seven-seater sofa set, channel back",
+      "category": "seating",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "17000000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T08:30:00.000Z",
+      "materials": [
+        "Fabric",
+        "Hardwood"
+      ],
+      "summary": "A seven-seater set in a 3 + 2 + 1 + 1 arrangement, on memory-foam cushions with a two-year warranty.",
+      "descriptionMd": "Seven seats across four pieces — a three-seater, a two-seater and two armchairs — so the set works down one wall or around a corner without being one immovable block.\n\nThe cushions are 45D premium memory foam. The number is the density: at 45D the seat holds its shape under daily use rather than flattening into a dip in the first year, which is the usual complaint about a set at this price.\n\nCovered by a two-year warranty.",
+      "careMd": "Vacuum with a brush head every few weeks. Blot spills rather than rubbing them. Keep the set out of direct afternoon sun, which fades upholstery faster than use does.",
+      "extraSpecs": [
+        {
+          "label": "Configuration",
+          "value": "3 + 2 + 1 + 1 — seven seats"
+        },
+        {
+          "label": "Cushion",
+          "value": "Memory foam, 45D premium"
+        },
+        {
+          "label": "Warranty",
+          "value": "2 years",
+          "mono": true
+        }
+      ],
+      "media": [
+        {
+          "asset": "sofa-set-7-seater-still",
+          "shape": "wide",
+          "alt": "The seven-seater sofa set in grey fabric, photographed in the workshop."
+        },
+        {
+          "asset": "sofa-set-7-seater",
+          "kind": "video",
+          "alt": "A slow pan across the seven-seater set in the workshop, showing the channelled seat and the timber feet."
+        },
+        {
+          "asset": "sofa-set-7-seater-still",
+          "shape": "square",
+          "alt": "The channelled seat and scatter cushions of the seven-seater set."
+        },
+        {
+          "asset": "sofa-set-7-seater-still",
+          "shape": "pano",
+          "alt": "The seven-seater set seen wide, showing the arm profile and timber feet."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "corduroy-sofa",
+      "sku": "FV-CORD",
+      "name": "Corduroy sofa",
+      "category": "seating",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "4500000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T08:32:00.000Z",
+      "materials": [
+        "Corduroy",
+        "Hardwood"
+      ],
+      "summary": "A wide-wale corduroy sofa built in three, five, six or seven seats, on 40D memory-foam cushions, in the fabric colour you choose.",
+      "descriptionMd": "Wide-wale corduroy over a hardwood frame, with a low black timber foot that keeps the piece from reading as a solid block along a wall.\n\nBuilt to order in four sizes — three, five, six or seven seats. Pick the size against your wall length rather than against the room; a seven-seater on a four-metre wall leaves nowhere to walk.\n\nCushions are 40D premium memory foam. Made to order in the fabric colour you choose, so the cream shown here is one option rather than the only one.\n\nCovered by a two-year warranty.",
+      "careMd": "Vacuum along the wale with a brush head, not across it. Blot spills rather than rubbing, which flattens the pile. Keep it out of direct afternoon sun.",
+      "extraSpecs": [
+        {
+          "label": "Cushion",
+          "value": "Memory foam, 40D premium"
+        },
+        {
+          "label": "Warranty",
+          "value": "2 years",
+          "mono": true
+        },
+        {
+          "label": "Colour",
+          "value": "Made to order in your choice of fabric colour"
+        }
+      ],
+      "media": [
+        {
+          "asset": "corduroy-sofa-full",
+          "shape": "wide",
+          "alt": "The corduroy sofa in cream, seen from the side at the workshop entrance."
+        },
+        {
+          "asset": "corduroy-sofa-detail",
+          "shape": "square",
+          "alt": "The corduroy sofa seen from above, showing the wide wale and the seat cushion split."
+        },
+        {
+          "asset": "corduroy-sofa",
+          "shape": "pano",
+          "alt": "The corduroy sofa in cream, styled in a living room with scatter cushions."
+        }
+      ],
+      "variants": [
+        {
+          "kind": "size",
+          "name": "3 seater",
+          "material": "Corduroy",
+          "swatchHex": null,
+          "priceDeltaMinor": "0",
+          "sku": "FV-CORD-3",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "5 seater",
+          "material": "Corduroy",
+          "swatchHex": null,
+          "priceDeltaMinor": "3500000",
+          "sku": "FV-CORD-5",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "6 seater",
+          "material": "Corduroy",
+          "swatchHex": null,
+          "priceDeltaMinor": "7000000",
+          "sku": "FV-CORD-6",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "7 seater",
+          "material": "Corduroy",
+          "swatchHex": null,
+          "priceDeltaMinor": "10000000",
+          "sku": "FV-CORD-7",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "tan-leather-sofa",
+      "sku": "FV-LEA3",
+      "name": "Tan leather sofa",
+      "category": "seating",
+      "published": false,
+      "_unpublishedReason": "No price supplied yet. The storefront never invents one.",
+      "featured": false,
+      "basePriceMinor": "0",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T08:31:00.000Z",
+      "materials": [
+        "Leather",
+        "Hardwood"
+      ],
+      "summary": "A three-seat sofa in tan leather on a solid timber plinth.",
+      "descriptionMd": "A three-seat sofa in tan leather, on a solid timber plinth with tapered feet.",
+      "careMd": "Wipe with a barely damp cloth. Condition the leather once a year.",
+      "extraSpecs": [],
+      "media": [
+        {
+          "asset": "leather-sofa-tan",
+          "shape": "wide",
+          "alt": "A three-seat tan leather sofa in a showroom setting."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "round-coffee-table",
+      "sku": "FV-RCT",
+      "name": "Round coffee table",
+      "category": "tables",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "1600000",
+      "stockQty": null,
+      "leadTimeDays": 14,
+      "updatedAt": "2026-08-20T08:45:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "A round mahogany coffee table on a sculpted three-leg base, priced per table.",
+      "descriptionMd": "A round coffee table in mahogany, with a moulded edge to the top and a base of three curved legs meeting a central column. The curve is cut and shaped rather than bent, so the grain runs with the leg.\n\nFinished and polished. Priced per table — order more than one for a pair of side tables at the ends of a sofa.",
+      "careMd": "Wipe with a barely damp cloth. Use a mat under anything hot or wet — a polished top marks more readily than an oiled one. Keep out of direct afternoon sun, which will lift the colour unevenly.",
+      "extraSpecs": [
+        {
+          "label": "Timber",
+          "value": "Mahogany"
+        },
+        {
+          "label": "Price",
+          "value": "Per table"
+        }
+      ],
+      "media": [
+        {
+          "asset": "round-table-detail",
+          "shape": "wide",
+          "alt": "The round mahogany coffee table in a living room, holding a stack of books on a patterned rug."
+        },
+        {
+          "asset": "round-table-styled",
+          "shape": "square",
+          "alt": "The round mahogany coffee table seen from above and from the side, showing the moulded edge and the three curved legs."
+        },
+        {
+          "asset": "round-table-detail",
+          "shape": "pano",
+          "alt": "The round mahogany coffee table beside a green sofa."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "solid-dining-table",
+      "sku": "FV-SDT",
+      "name": "Solid mahogany dining table",
+      "category": "tables",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "8000000",
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "updatedAt": "2026-08-20T13:05:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "A solid mahogany dining table built to seat four, six or eight, in your choice of design — the price follows the size, not the design.",
+      "descriptionMd": "A solid mahogany top on a solid mahogany base — not veneered board. That distinction matters most on a dining table, because it is the surface that takes the daily wear, and a scratch in a solid top can be sanded and re-finished where a scratch through a veneer cannot.\n\n**The price follows the seat count, not the design.** A four-seater costs the same whichever base you choose — pedestal, trestle, X-frame, tapered legs or a plain square frame. Work through the photographs, pick the one you want, and tell us the size.\n\nChoose the size against the room rather than the household: allow roughly 600 mm of table edge per person, and 900 mm of clear floor behind each chair so someone can get up while others stay seated.\n\nChairs are shown with the tables and follow the table you choose.",
+      "careMd": "Wipe spills promptly rather than leaving them to sit. Use mats under anything hot. Keep the table out of direct afternoon sun, which will lift the colour unevenly across a solid top.",
+      "extraSpecs": [
+        {
+          "label": "Timber",
+          "value": "Solid mahogany"
+        },
+        {
+          "label": "Designs",
+          "value": "Several — the price follows the seat count, not the design"
+        },
+        {
+          "label": "Seats",
+          "value": "4, 6 or 8 — chair count follows the table"
+        }
+      ],
+      "media": [
+        {
+          "asset": "dining-table-b",
+          "shape": "wide",
+          "alt": "A solid mahogany dining table seating eight, with matching wood-framed armchairs in cream boucle, in the showroom."
+        },
+        {
+          "asset": "dining-table-a",
+          "shape": "square",
+          "alt": "The solid mahogany dining table seen along its length, showing the square leg frame."
+        },
+        {
+          "asset": "dining-design-1",
+          "shape": "square",
+          "alt": "A walnut-toned dining table with a book-matched top on tapered round legs, with curved-back boucle chairs."
+        },
+        {
+          "asset": "dining-design-3",
+          "shape": "wide",
+          "alt": "A dark-stained dining table on a sculpted centre pedestal, with slat-back chairs in pale upholstery."
+        },
+        {
+          "asset": "dining-design-4",
+          "shape": "square",
+          "alt": "A black-stained dining table with fluted legs, with lattice-back chairs in grey upholstery."
+        },
+        {
+          "asset": "dining-design-5",
+          "shape": "pano",
+          "alt": "A pale timber dining table on splayed legs, with upholstered chairs in cream."
+        },
+        {
+          "asset": "dining-design-6",
+          "shape": "wide",
+          "alt": "A wide plank-top dining table on a trestle base, with cane-back chairs."
+        },
+        {
+          "asset": "dining-design-7",
+          "shape": "square",
+          "alt": "A walnut dining table with a live-edge grain pattern, with curved boucle armchairs."
+        },
+        {
+          "asset": "dining-design-8",
+          "shape": "pano",
+          "alt": "A light timber dining table with a plain apron, with upholstered chairs in cream."
+        },
+        {
+          "asset": "dining-design-9",
+          "shape": "wide",
+          "alt": "A timber dining table on a crossed X-frame base, with curved-back chairs."
+        },
+        {
+          "asset": "dining-design-10",
+          "shape": "square",
+          "alt": "A timber dining table with a square leg frame, with wood-framed upholstered chairs."
+        },
+        {
+          "asset": "dining-design-11",
+          "shape": "pano",
+          "alt": "An oval walnut dining table on a panel pedestal, with curved-back boucle armchairs."
+        },
+        {
+          "asset": "dining-set-8-b",
+          "shape": "pano",
+          "alt": "A dining table with a reeded apron on tapered legs, with boucle armchairs, in the workshop."
+        },
+        {
+          "asset": "dining-set-8-a",
+          "shape": "wide",
+          "alt": "A dining table on splayed A-frame legs, with wood-framed boucle armchairs."
+        },
+        {
+          "asset": "dining-set-8-room",
+          "shape": "square",
+          "alt": "A dark-finished dining table seating eight in a dining room, with a matching sideboard."
+        }
+      ],
+      "variants": [
+        {
+          "kind": "size",
+          "name": "4 seater",
+          "material": "Mahogany",
+          "swatchHex": null,
+          "priceDeltaMinor": "0",
+          "sku": "FV-SDT-4",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "6 seater",
+          "material": "Mahogany",
+          "swatchHex": null,
+          "priceDeltaMinor": "4000000",
+          "sku": "FV-SDT-6",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "8 seater",
+          "material": "Mahogany",
+          "swatchHex": null,
+          "priceDeltaMinor": "7000000",
+          "sku": "FV-SDT-8",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "sofa-set-seven-seater-ribbed",
+      "sku": "FV-SS7-R",
+      "name": "Seven-seater sofa set, ribbed back",
+      "category": "seating",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "16500000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T12:10:00.000Z",
+      "materials": [
+        "Fabric",
+        "Hardwood"
+      ],
+      "summary": "A seven-seater set in a 3 + 2 + 1 + 1 arrangement, with a ribbed back and turned timber feet, on 45D memory-foam cushions.",
+      "descriptionMd": "Seven seats across four pieces — a three-seater, a two-seater and two armchairs. The back is stitched into vertical ribs and the whole set stands on turned timber feet, so it sits clear of the floor rather than reading as a solid block against the wall.\n\nCushions are 45D premium memory foam. The number is the density: at 45D the seat keeps its shape under daily use instead of flattening into a dip within the first year.\n\nCovered by a two-year warranty.",
+      "careMd": "Vacuum with a brush head every few weeks, working along the ribs rather than across them. Blot spills rather than rubbing. Keep the set out of direct afternoon sun, which fades upholstery faster than use does.",
+      "extraSpecs": [
+        {
+          "label": "Configuration",
+          "value": "3 + 2 + 1 + 1 — seven seats"
+        },
+        {
+          "label": "Cushion",
+          "value": "Memory foam, 45D premium"
+        },
+        {
+          "label": "Warranty",
+          "value": "2 years",
+          "mono": true
+        }
+      ],
+      "media": [
+        {
+          "asset": "sofa-set-7-seater-b-still",
+          "shape": "wide",
+          "alt": "The ribbed-back seven-seater sofa set in cream fabric, in a living room."
+        },
+        {
+          "asset": "sofa-set-7-seater-b",
+          "kind": "video",
+          "alt": "A slow pan around the ribbed-back seven-seater set, showing the stitched back, the rolled arms and the turned timber feet."
+        },
+        {
+          "asset": "sofa-set-7-seater-b-still",
+          "shape": "square",
+          "alt": "The rolled arm and ribbed back of the seven-seater set in cream fabric."
+        },
+        {
+          "asset": "sofa-set-7-seater-b-still",
+          "shape": "pano",
+          "alt": "The ribbed-back seven-seater set seen wide across the room."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "mahogany-bed",
+      "sku": "FV-BED",
+      "name": "Panelled bed frame",
+      "category": "beds",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "7500000",
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "updatedAt": "2026-08-20T12:06:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "A solid mahogany bed frame with a panelled headboard and footboard, built for a 5 by 6 or 6 by 6 foot mattress.",
+      "descriptionMd": "A solid mahogany frame with a tall panelled headboard, a matching footboard and a moulded cornice along the top rail. The panels are set into the frame rather than applied to a flat face, which is what gives the headboard its depth.\n\nBuilt for standard Kenyan mattress sizes — 5 by 6 foot, or 6 by 6 foot. Choose against the room, not just the household: allow around 600 mm of clear floor on each side you want to walk down.\n\nMattress is not included.",
+      "careMd": "Wipe with a barely damp cloth. Tighten the frame bolts after the first month and once a year after that. Keep the headboard out of direct afternoon sun, which will lift the colour unevenly across a panelled face.",
+      "extraSpecs": [
+        {
+          "label": "Timber",
+          "value": "Solid mahogany"
+        },
+        {
+          "label": "Mattress",
+          "value": "Not included"
+        }
+      ],
+      "media": [
+        {
+          "asset": "bed-mahogany-a",
+          "shape": "wide",
+          "alt": "A solid mahogany bed frame with a tall panelled headboard and moulded cornice, made up with bedding, beside a matching nightstand."
+        },
+        {
+          "asset": "bed-mahogany-b",
+          "shape": "square",
+          "alt": "A dark-finished panelled bed frame seen from the foot, showing the footboard and the moulded top rail."
+        },
+        {
+          "asset": "bed-mahogany-a",
+          "shape": "pano",
+          "alt": "The panelled mahogany bed frame seen wide in a bedroom."
+        }
+      ],
+      "variants": [
+        {
+          "kind": "size",
+          "name": "5 by 6 ft",
+          "material": "Mahogany",
+          "swatchHex": null,
+          "priceDeltaMinor": "0",
+          "sku": "FV-BED-56",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "6 by 6 ft",
+          "material": "Mahogany",
+          "swatchHex": null,
+          "priceDeltaMinor": "500000",
+          "sku": "FV-BED-66",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "mahogany-nightstands",
+      "sku": "FV-NS2",
+      "name": "Nightstands, pair",
+      "category": "beds",
+      "published": true,
+      "featured": false,
+      "basePriceMinor": "3000000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T12:06:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "A pair of solid mahogany nightstands with panelled drawer fronts, matching the panelled bed frame.",
+      "descriptionMd": "Three drawers each, with panelled fronts and turned bun feet, cut and finished to match the panelled bed frame.\n\nSold as a pair, because a bed has two sides and matching a single one later is harder than it sounds — timber from a different batch will not take the finish identically.",
+      "careMd": "Wipe with a barely damp cloth. Rub a candle stub along the drawer runners if they begin to stick.",
+      "extraSpecs": [
+        {
+          "label": "Timber",
+          "value": "Solid mahogany"
+        },
+        {
+          "label": "Sold as",
+          "value": "A pair"
+        }
+      ],
+      "media": [
+        {
+          "asset": "bed-mahogany-a",
+          "shape": "square",
+          "alt": "A solid mahogany nightstand with three panelled drawers, photographed beside the matching panelled bed."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "double-decker-bed",
+      "sku": "FV-DDB",
+      "name": "Double-decker bed with staircase",
+      "category": "beds",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "8000000",
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "updatedAt": "2026-08-20T12:20:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "A double-decker bed with a 4 by 6 upper bunk over a 5 by 6 lower, reached by a staircase with storage built into the treads.",
+      "descriptionMd": "Two beds in one footprint: a 4 by 6 foot upper bunk over a 5 by 6 foot lower, so the child on the bottom does not grow out of it in two years.\n\nAccess is a staircase rather than a ladder. That is the whole argument for this bed — a ladder is a rung a half-asleep child misses in the dark, and a staircase is a step. Each tread lifts or opens for storage, so the stair is also the chest of drawers the room no longer has space for.\n\nThe guard rail on the upper bunk is slatted and full length along the open side. Turned posts and handrail in mahogany, against a painted frame.\n\nMattresses are not included.",
+      "careMd": "Wipe painted surfaces with a barely damp cloth and nothing abrasive. Tighten the frame bolts after the first month and once a year after — a bunk bed takes more movement than a single frame does. Check the guard rail fixings at the same time.",
+      "extraSpecs": [
+        {
+          "label": "Upper bunk",
+          "value": "4 by 6 ft"
+        },
+        {
+          "label": "Lower bunk",
+          "value": "5 by 6 ft"
+        },
+        {
+          "label": "Access",
+          "value": "Staircase, with storage in the treads"
+        },
+        {
+          "label": "Mattress",
+          "value": "Not included"
+        }
+      ],
+      "media": [
+        {
+          "asset": "bunk-bed-still",
+          "shape": "wide",
+          "alt": "A cream double-decker bed with a slatted guard rail on the upper bunk and a staircase with lit treads leading up to it."
+        },
+        {
+          "asset": "bunk-bed",
+          "kind": "video",
+          "alt": "A walk around the double-decker bed, showing the staircase treads opening for storage and the slatted guard rail on the upper bunk."
+        },
+        {
+          "asset": "bunk-bed-still",
+          "shape": "square",
+          "alt": "The staircase of the double-decker bed, with lit treads and storage doors in the stair box."
+        },
+        {
+          "asset": "bunk-bed-still",
+          "shape": "pano",
+          "alt": "The double-decker bed seen wide, showing both bunks and the staircase."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "dressing-table-mirror",
+      "sku": "FV-DTM",
+      "name": "Dressing table with round mirror",
+      "category": "beds",
+      "published": true,
+      "featured": false,
+      "basePriceMinor": "3500000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T12:25:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "A dressing table with a round mirror, fluted drawer fronts and a lit display column, supplied with a stool.",
+      "descriptionMd": "A dressing table built in wood and finished in white, with a round mirror on a moulded surround and fluted fronts to the drawers. The handles and the tapered feet are brass-finished.\n\nA lit display column stands at one end, glazed with fixed glass shelves — for the things you want visible rather than in a drawer. The drawer bank sits under the working surface, with a shallow drawer across the centre of the desk itself.\n\nSupplied with the stool shown.",
+      "careMd": "Wipe the painted surfaces with a barely damp cloth and nothing abrasive — a painted finish scuffs where an oiled one would absorb. Clean the mirror and the glass shelves with a cloth rather than spraying directly, so cleaner does not run into the joints.",
+      "extraSpecs": [
+        {
+          "label": "Includes",
+          "value": "Stool"
+        },
+        {
+          "label": "Display column",
+          "value": "Glazed, with fixed glass shelves and lighting"
+        },
+        {
+          "label": "Finish",
+          "value": "Painted white, brass-finished hardware"
+        }
+      ],
+      "media": [
+        {
+          "asset": "dressing-table",
+          "shape": "wide",
+          "alt": "A white dressing table with a round mirror, fluted drawer fronts, brass-finished handles and a lit glazed display column, with a round stool beneath."
+        },
+        {
+          "asset": "dressing-table",
+          "shape": "square",
+          "alt": "The round mirror and fluted drawer front of the white dressing table."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "green-sofa",
+      "sku": "FV-GRN3",
+      "name": "Green three-seat sofa",
+      "category": "seating",
+      "published": true,
+      "featured": false,
+      "basePriceMinor": "4500000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T12:25:00.000Z",
+      "materials": [
+        "Fabric",
+        "Hardwood"
+      ],
+      "summary": "A three-seat sofa in green fabric, with low square arms on a solid timber plinth.",
+      "descriptionMd": "A three-seat sofa in green fabric, with low square arms and a deep seat, sitting on a solid timber plinth rather than legs. The plinth reads heavier than a leg base, so it suits a room where the sofa is meant to anchor the floor rather than float above it.\n\nMade to order.",
+      "careMd": "Vacuum with a brush head every few weeks. Blot spills rather than rubbing.",
+      "extraSpecs": [
+        {
+          "label": "Seats",
+          "value": "Three"
+        }
+      ],
+      "media": [
+        {
+          "asset": "green-sofa",
+          "shape": "wide",
+          "alt": "A three-seat sofa in green fabric on a timber plinth, in a living room."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "cream-sofa-set",
+      "sku": "FV-CRM",
+      "name": "Cream sofa set",
+      "category": "seating",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "4500000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T12:30:00.000Z",
+      "materials": [
+        "Fabric",
+        "Hardwood"
+      ],
+      "summary": "A cream fabric sofa set built in three, five, six or seven seats, on 40D memory-foam cushions, in the fabric colour you choose.",
+      "descriptionMd": "Square arms, scatter cushions and turned timber feet, over a hardwood frame. The feet lift the set clear of the floor, which keeps a large suite from reading as one solid mass along a wall.\n\nBuilt to order in four sizes — three, five, six or seven seats. Measure the wall before choosing: a seven-seater needs a run most sitting rooms do not have, and the five is the size that fits more often than people expect.\n\nCushions are 40D premium memory foam. Made to order in the fabric colour you choose, so the cream shown here is one option rather than the only one.\n\nCovered by a two-year warranty.",
+      "careMd": "Vacuum with a brush head every few weeks. Blot spills rather than rubbing, which drives them into the weave. Keep the set out of direct afternoon sun.",
+      "extraSpecs": [
+        {
+          "label": "Cushion",
+          "value": "Memory foam, 40D premium"
+        },
+        {
+          "label": "Warranty",
+          "value": "2 years",
+          "mono": true
+        },
+        {
+          "label": "Colour",
+          "value": "Made to order in your choice of fabric colour"
+        }
+      ],
+      "media": [
+        {
+          "asset": "cream-sofa-set-b",
+          "shape": "wide",
+          "alt": "A cream fabric sofa set with square arms, scatter cushions and turned timber feet, photographed outside the workshop."
+        },
+        {
+          "asset": "cream-sofa-set",
+          "shape": "square",
+          "alt": "The cream sofa set seen from above, showing the seat cushions and scatter cushions."
+        },
+        {
+          "asset": "cream-sofa-set-c",
+          "shape": "pano",
+          "alt": "The cream sofa set arranged in a row, showing the armchair and the long sofa together."
+        }
+      ],
+      "variants": [
+        {
+          "kind": "size",
+          "name": "3 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "0",
+          "sku": "FV-CRM-3",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "5 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "3000000",
+          "sku": "FV-CRM-5",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "6 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "6500000",
+          "sku": "FV-CRM-6",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "7 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "9500000",
+          "sku": "FV-CRM-7",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "wide-headboard-bed",
+      "sku": "FV-BED2",
+      "name": "Wide-headboard bed",
+      "category": "beds",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "7000000",
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "updatedAt": "2026-08-20T12:40:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "A mahogany bed with a full-width headboard panel that runs past the mattress on both sides, built for a 5 by 6 or 6 by 6 foot mattress.",
+      "descriptionMd": "The headboard is one wide mahogany panel that carries on past the mattress at each side, so the bed reads as a single line across the wall rather than a frame with gaps at the corners. The overhang gives each side a surface without needing a separate table against the wall.\n\nPlain-faced and flat, with no mouldings — the grain does the work. Built for standard Kenyan mattress sizes, 5 by 6 foot or 6 by 6 foot.\n\nA matching pair of nightstands is available separately.\n\nMattress is not included.",
+      "careMd": "Wipe with a barely damp cloth. Re-oil the headboard once a year — it takes more hand contact than the rest of the frame. Tighten the frame bolts after the first month and once a year after that.",
+      "extraSpecs": [
+        {
+          "label": "Timber",
+          "value": "Solid mahogany"
+        },
+        {
+          "label": "Headboard",
+          "value": "Full width, overhanging both sides"
+        },
+        {
+          "label": "Nightstands",
+          "value": "Matching pair available separately"
+        },
+        {
+          "label": "Mattress",
+          "value": "Not included"
+        }
+      ],
+      "media": [
+        {
+          "asset": "wooden-bed-2-still",
+          "shape": "wide",
+          "alt": "A mahogany bed with a wide flat headboard panel running past the mattress on both sides, made up with white bedding."
+        },
+        {
+          "asset": "wooden-bed-2",
+          "kind": "video",
+          "alt": "A slow pan across the wide-headboard bed, showing the full-width headboard panel and the overhanging sides."
+        },
+        {
+          "asset": "wooden-bed-2-still",
+          "shape": "square",
+          "alt": "The mahogany headboard panel of the wide-headboard bed, seen close."
+        },
+        {
+          "asset": "wooden-bed-2-still",
+          "shape": "pano",
+          "alt": "The wide-headboard bed seen across the bedroom."
+        }
+      ],
+      "variants": [
+        {
+          "kind": "size",
+          "name": "5 by 6 ft",
+          "material": "Mahogany",
+          "swatchHex": null,
+          "priceDeltaMinor": "0",
+          "sku": "FV-BED2-56",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "6 by 6 ft",
+          "material": "Mahogany",
+          "swatchHex": null,
+          "priceDeltaMinor": "500000",
+          "sku": "FV-BED2-66",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "sofa-set-pocket-spring",
+      "sku": "FV-SS7-PS",
+      "name": "Seven-seater sofa set, pocket spring",
+      "category": "seating",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "17500000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T12:45:00.000Z",
+      "materials": [
+        "Fabric",
+        "Mahogany"
+      ],
+      "summary": "A seven-seater set on pocket-spring cushions, with a low mahogany base and a patterned back, under a two-year warranty.",
+      "descriptionMd": "Pocket springs rather than foam. Each spring is sleeved and works on its own, so the seat gives where the weight is instead of dipping as one piece — the difference shows most on the long three-seater, where two people sitting at opposite ends do not tip toward each other.\n\nThe frame sits on a low mahogany base with the timber left visible below the upholstery. Plain fabric on the seats and arms, with a patterned weave on the outside backs.\n\nCovered by a two-year warranty.",
+      "careMd": "Vacuum with a brush head every few weeks. Turn and swap the seat cushions every couple of months so they wear evenly — pocket springs last longer for it. Blot spills rather than rubbing.",
+      "extraSpecs": [
+        {
+          "label": "Configuration",
+          "value": "Seven seats"
+        },
+        {
+          "label": "Cushion",
+          "value": "Pocket spring"
+        },
+        {
+          "label": "Warranty",
+          "value": "2 years",
+          "mono": true
+        }
+      ],
+      "media": [
+        {
+          "asset": "sofa-set-pocket-spring-still",
+          "shape": "wide",
+          "alt": "A beige seven-seater sofa set on a low mahogany base, with scatter cushions and a throw."
+        },
+        {
+          "asset": "sofa-set-pocket-spring",
+          "kind": "video",
+          "alt": "A pan across the pocket-spring seven-seater set, showing the mahogany base, the scatter cushions and the patterned outside back."
+        },
+        {
+          "asset": "sofa-set-pocket-spring-still",
+          "shape": "square",
+          "alt": "The arm and seat of the beige pocket-spring sofa, showing the visible mahogany base."
+        },
+        {
+          "asset": "sofa-set-pocket-spring-still",
+          "shape": "pano",
+          "alt": "The pocket-spring seven-seater set seen wide in a sitting room."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "square-coffee-table",
+      "sku": "FV-SCT",
+      "name": "Square coffee table",
+      "category": "tables",
+      "published": true,
+      "featured": false,
+      "basePriceMinor": "3000000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T12:45:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "A square mahogany coffee table with a deep apron and drawers set into the side.",
+      "descriptionMd": "A square coffee table in solid mahogany, with a deep apron below the top and drawers set into the side rather than hung underneath. The drawers keep remote controls and coasters off the surface, which is most of what a coffee table is asked to do.\n\nLow, heavy and square — it suits a set arranged around all four sides rather than a single sofa against a wall.",
+      "careMd": "Wipe with a barely damp cloth. Use a mat under anything hot or wet. Rub a candle stub along the drawer runners if they start to stick.",
+      "extraSpecs": [
+        {
+          "label": "Timber",
+          "value": "Solid mahogany"
+        },
+        {
+          "label": "Storage",
+          "value": "Drawers set into the side"
+        }
+      ],
+      "media": [
+        {
+          "asset": "square-coffee-table",
+          "shape": "wide",
+          "alt": "A square mahogany coffee table with a deep apron and side drawers, holding a stack of books, beside a beige sofa."
+        },
+        {
+          "asset": "square-coffee-table",
+          "shape": "square",
+          "alt": "The square mahogany coffee table seen close, showing the apron and the drawer front."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "square-arm-sofa-set",
+      "sku": "FV-SQA",
+      "name": "Square-arm sofa set",
+      "category": "seating",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "4500000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T12:50:00.000Z",
+      "materials": [
+        "Fabric",
+        "Hardwood"
+      ],
+      "summary": "A square-armed sofa set in a flat-weave fabric, built in three, five, six or seven seats on 40D memory-foam cushions.",
+      "descriptionMd": "Straight square arms and a deep seat, in a flat-weave fabric over a hardwood frame. The back cushions are seamed on the diagonal, which keeps a wide back from reading as one flat panel.\n\nBuilt to order in four sizes — three, five, six or seven seats. Measure the wall rather than counting the household: a seven-seater needs a run most sitting rooms do not have.\n\nCushions are 40D premium memory foam. Made to order in the fabric colour you choose, so the grey shown here is one option rather than the only one.\n\nCovered by a two-year warranty.",
+      "careMd": "Vacuum with a brush head every few weeks. Blot spills rather than rubbing, which drives them into the weave. Keep the set out of direct afternoon sun.",
+      "extraSpecs": [
+        {
+          "label": "Cushion",
+          "value": "Memory foam, 40D premium"
+        },
+        {
+          "label": "Warranty",
+          "value": "2 years",
+          "mono": true
+        },
+        {
+          "label": "Colour",
+          "value": "Made to order in your choice of fabric colour"
+        }
+      ],
+      "media": [
+        {
+          "asset": "grey-sofa-set-b",
+          "shape": "wide",
+          "alt": "A grey square-armed sofa set with tan scatter cushions, photographed outside the workshop."
+        },
+        {
+          "asset": "grey-sofa-set-a",
+          "shape": "square",
+          "alt": "The back of the grey square-arm sofa, showing the diagonal seaming across the back cushions."
+        },
+        {
+          "asset": "grey-sofa-set-c",
+          "shape": "pano",
+          "alt": "The grey square-arm sofa set seen along its length with tan scatter cushions."
+        }
+      ],
+      "variants": [
+        {
+          "kind": "size",
+          "name": "3 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "0",
+          "sku": "FV-SQA-3",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "5 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "3500000",
+          "sku": "FV-SQA-5",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "6 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "7000000",
+          "sku": "FV-SQA-6",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "7 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "10000000",
+          "sku": "FV-SQA-7",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "navy-sofa-set",
+      "sku": "FV-NVY",
+      "name": "Chenille sofa set",
+      "category": "seating",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "4500000",
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T12:50:00.000Z",
+      "materials": [
+        "Fabric",
+        "Hardwood"
+      ],
+      "summary": "A sofa set in a textured chenille weave on turned timber feet, built in three, five, six or seven seats, in the fabric colour you choose.",
+      "descriptionMd": "A textured chenille weave over a hardwood frame, on turned timber feet that lift the set clear of the floor. The weave catches light differently across its face, so the colour shifts a little as you move around the room — which is the point of chenille and the reason it does not read flat the way a plain cotton does.\n\nBuilt to order in four sizes — three, five, six or seven seats. Measure the wall before choosing rather than counting the household.\n\nCushions are 40D premium memory foam. Made to order in the fabric colour you choose, so the navy shown here is one option rather than the only one.\n\nCovered by a two-year warranty.",
+      "careMd": "Vacuum with a brush head every few weeks, along the weave rather than across it. Blot spills rather than rubbing — chenille pile flattens where it is scrubbed. Keep the set out of direct afternoon sun.",
+      "extraSpecs": [
+        {
+          "label": "Cushion",
+          "value": "Memory foam, 40D premium"
+        },
+        {
+          "label": "Warranty",
+          "value": "2 years",
+          "mono": true
+        },
+        {
+          "label": "Colour",
+          "value": "Made to order in your choice of fabric colour"
+        }
+      ],
+      "media": [
+        {
+          "asset": "navy-sofa-set-b",
+          "shape": "wide",
+          "alt": "A navy chenille sofa set on turned timber feet, arranged in a living room with a matching oval ottoman."
+        },
+        {
+          "asset": "navy-sofa-set-c",
+          "shape": "square",
+          "alt": "A navy chenille two-seat sofa on turned timber feet, seen from the side."
+        },
+        {
+          "asset": "navy-sofa-set-d",
+          "shape": "pano",
+          "alt": "The navy chenille sofa set seen across the room, showing the two-seater and the armchair."
+        },
+        {
+          "asset": "navy-sofa-set-a",
+          "shape": "wide",
+          "alt": "The navy chenille sofa set with scatter cushions, seen close."
+        }
+      ],
+      "variants": [
+        {
+          "kind": "size",
+          "name": "3 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "0",
+          "sku": "FV-NVY-3",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "5 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "3500000",
+          "sku": "FV-NVY-5",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "6 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "7000000",
+          "sku": "FV-NVY-6",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "7 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "10000000",
+          "sku": "FV-NVY-7",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "rolled-arm-sofa-set",
+      "sku": "FV-RLA",
+      "name": "Rolled-arm sofa set",
+      "category": "seating",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "5000000",
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "updatedAt": "2026-08-20T12:55:00.000Z",
+      "materials": [
+        "Fabric",
+        "Mahogany"
+      ],
+      "summary": "A sofa set with deep rolled arms and a channelled seat, on a curved timber sled base, built in three, five, six or seven seats.",
+      "descriptionMd": "The arms are rolled into a full scroll and the seat and back are channelled across their width, so the piece reads as a series of soft horizontals rather than a box. It is the most shaped thing in the range and the one that needs floor around it to be seen properly.\n\nThe base is a curved timber sled rather than legs — two runners that lift the body clear of the floor and carry the weight along their length. Timber accents are set into the outside of each arm.\n\nBuilt to order in four sizes — three, five, six or seven seats. Cushions are 40D premium memory foam, and it is made in the fabric colour you choose.\n\nCovered by a two-year warranty.",
+      "careMd": "Vacuum with a brush head every few weeks, working into the channels where dust settles. Blot spills rather than rubbing. Wipe the timber base and arm accents with a barely damp cloth and re-oil once a year.",
+      "extraSpecs": [
+        {
+          "label": "Cushion",
+          "value": "Memory foam, 40D premium"
+        },
+        {
+          "label": "Warranty",
+          "value": "2 years",
+          "mono": true
+        },
+        {
+          "label": "Base",
+          "value": "Curved timber sled"
+        },
+        {
+          "label": "Colour",
+          "value": "Made to order in your choice of fabric colour"
+        }
+      ],
+      "media": [
+        {
+          "asset": "rolled-arm-sofa-a",
+          "shape": "wide",
+          "alt": "A rolled-arm sofa with a channelled seat and back, on a curved timber sled base, with scatter cushions."
+        },
+        {
+          "asset": "rolled-arm-sofa-b",
+          "shape": "square",
+          "alt": "The rolled-arm sofa seen at an angle, showing the scroll of the arm and the timber accent set into its outside face."
+        },
+        {
+          "asset": "rolled-arm-sofa-a",
+          "shape": "pano",
+          "alt": "The rolled-arm sofa seen wide, showing the full sweep of both arms and the sled base."
+        }
+      ],
+      "variants": [
+        {
+          "kind": "size",
+          "name": "3 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "0",
+          "sku": "FV-RLA-3",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "5 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "3500000",
+          "sku": "FV-RLA-5",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "6 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "7000000",
+          "sku": "FV-RLA-6",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "7 seater",
+          "material": "Fabric",
+          "swatchHex": null,
+          "priceDeltaMinor": "10000000",
+          "sku": "FV-RLA-7",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "carved-mahogany-bed",
+      "sku": "FV-BED3",
+      "name": "Carved mahogany bed",
+      "category": "beds",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": "8500000",
+      "stockQty": null,
+      "leadTimeDays": 35,
+      "updatedAt": "2026-08-20T13:00:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "A solid mahogany bed with an arched panelled headboard, turned finials and carved scrollwork, for a 5 by 6 or 6 by 6 foot mattress.",
+      "descriptionMd": "The headboard rises to a central arch flanked by two lower ones, with raised panels inside each and carved scrollwork at the shoulders. The corner posts are fluted and capped with turned finials, and the footboard repeats the same arch at a lower height.\n\nThis is the most worked piece in the range. The carving is cut into solid mahogany rather than applied as moulding, which is why it takes longer to build than the plainer frames.\n\nBuilt for standard Kenyan mattress sizes, 5 by 6 foot or 6 by 6 foot.\n\nMattress is not included.",
+      "careMd": "Dust the carving with a soft brush rather than a cloth, which catches on the scrollwork. Wipe the flat surfaces with a barely damp cloth and re-oil once a year. Tighten the frame bolts after the first month and once a year after that.",
+      "extraSpecs": [
+        {
+          "label": "Timber",
+          "value": "Solid mahogany"
+        },
+        {
+          "label": "Headboard",
+          "value": "Arched and panelled, with turned finials"
+        },
+        {
+          "label": "Nightstands",
+          "value": "Matching pair, KSh 35,000 — ordered with the bed"
+        },
+        {
+          "label": "Mattress",
+          "value": "Not included"
+        }
+      ],
+      "media": [
+        {
+          "asset": "mahogany-bed-3-still",
+          "shape": "wide",
+          "alt": "A carved solid mahogany bed with an arched panelled headboard, fluted corner posts and turned finials."
+        },
+        {
+          "asset": "mahogany-bed-3",
+          "kind": "video",
+          "alt": "A pan across the carved mahogany bed, showing the arched headboard, the carved scrollwork and the matching footboard."
+        },
+        {
+          "asset": "mahogany-bed-3-still",
+          "shape": "square",
+          "alt": "The arched headboard of the carved mahogany bed, showing the raised panels and scroll detail."
+        },
+        {
+          "asset": "mahogany-bed-3-still",
+          "shape": "pano",
+          "alt": "The carved mahogany bed headboard and footboard seen together."
+        }
+      ],
+      "variants": [
+        {
+          "kind": "size",
+          "name": "5 by 6 ft",
+          "material": "Mahogany",
+          "swatchHex": null,
+          "priceDeltaMinor": "0",
+          "sku": "FV-BED3-56",
+          "stockQty": null
+        },
+        {
+          "kind": "size",
+          "name": "6 by 6 ft",
+          "material": "Mahogany",
+          "swatchHex": null,
+          "priceDeltaMinor": "500000",
+          "sku": "FV-BED3-66",
+          "stockQty": null
+        }
+      ]
+    },
+    {
+      "slug": "bunk-bed-ladder",
+      "sku": "FV-DDB2",
+      "name": "Double-decker bed with ladder",
+      "category": "beds",
+      "published": true,
+      "featured": false,
+      "basePriceMinor": "8500000",
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "updatedAt": "2026-08-20T13:10:00.000Z",
+      "materials": [
+        "Muringa"
+      ],
+      "summary": "A muringa double-decker bed with a 4 by 6 upper bunk over a 5 by 6 lower, drawers beneath and a fixed ladder.",
+      "descriptionMd": "A 4 by 6 foot upper bunk over a 5 by 6 foot lower, in muringa with a dark finish. Heavy square posts run floor to ceiling height at each corner, and the rails are bolted through rather than housed, so the frame can be taken apart when the room changes.\n\nThe lower bunk sits on a drawer base — three drawers running the length of the bed, which is the storage a shared room usually has nowhere else to put.\n\nAccess is a fixed ladder at the foot end, with a guard rail along the open side of the upper bunk.\n\nMattresses are not included.",
+      "careMd": "Wipe with a barely damp cloth. Tighten the bolts after the first month and once a year after — a bunk bed takes more movement than a single frame. Check the ladder and guard rail fixings at the same time.",
+      "extraSpecs": [
+        {
+          "label": "Upper bunk",
+          "value": "4 by 6 ft"
+        },
+        {
+          "label": "Lower bunk",
+          "value": "5 by 6 ft"
+        },
+        {
+          "label": "Timber",
+          "value": "Muringa"
+        },
+        {
+          "label": "Access",
+          "value": "Fixed ladder, with a guard rail to the upper bunk"
+        },
+        {
+          "label": "Storage",
+          "value": "Three drawers under the lower bunk"
+        },
+        {
+          "label": "Mattress",
+          "value": "Not included"
+        }
+      ],
+      "media": [
+        {
+          "asset": "bunk-bed-ladder",
+          "shape": "wide",
+          "alt": "A dark muringa double-decker bed with heavy square posts, a guard rail to the upper bunk, a fixed ladder and three drawers under the lower bunk."
+        },
+        {
+          "asset": "bunk-bed-ladder",
+          "shape": "square",
+          "alt": "The ladder and guard rail of the muringa double-decker bed."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "curved-shoe-rack",
+      "sku": "FV-SHOE",
+      "name": "Curved shoe rack",
+      "category": "storage",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": null,
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T13:20:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "A three-tier shoe rack cut from figured hardwood, with the frame bent into one continuous curve at each end.",
+      "descriptionMd": "The frame is one continuous line — down one side, along the floor and back up the other — so there are no visible legs and no square corners for a shin to find in a dark hallway.\n\nThree tiers, open at the front and the back. Roughly five pairs to a tier depending on the shoe, which is fifteen pairs off the floor by the door.\n\nThe timber is chosen for figure rather than evenness. The grain runs through the curve instead of being interrupted by a joint, which is the whole reason for bending a frame rather than building one.",
+      "careMd": "Wipe with a barely damp cloth. Re-oil once a year — more often for a rack by a front door, which takes rain off shoes and grit off the street.",
+      "extraSpecs": [
+        {
+          "label": "Timber",
+          "value": "Figured hardwood"
+        },
+        {
+          "label": "Tiers",
+          "value": "Three, open front and back"
+        }
+      ],
+      "media": [
+        {
+          "asset": "shoe-rack-curved-b",
+          "shape": "wide",
+          "alt": "A three-tier shoe rack in figured hardwood with a continuous curved frame, holding shoes, against a pale wall."
+        },
+        {
+          "asset": "shoe-rack-curved",
+          "shape": "square",
+          "alt": "The curved end of the hardwood shoe rack, showing the grain running through the bend."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "dressing-table-glass",
+      "sku": "FV-DTG",
+      "name": "Dressing table with glass top",
+      "category": "beds",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": null,
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T13:20:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "A wall-hung dressing table with a smoked glass top and a full-height mirror, with a matching drawer chest and stool.",
+      "descriptionMd": "The desk is hung off the wall rather than standing on legs, so the floor runs clear underneath it and the stool tucks fully away. The top is smoked glass over a painted carcass — glass because a dressing table takes bottles, and a mark on glass wipes off where a mark on a painted top does not.\n\nTwo long drawers under the desk, with a separate three-drawer chest at one end carrying the same glass top. The mirror runs floor to ceiling behind, which is what makes a narrow corner of a bedroom read as a dressing area rather than a shelf against a wall.\n\nSupplied with the stool shown.",
+      "careMd": "Clean the glass with a cloth rather than spraying directly, so cleaner does not run into the joint between glass and carcass. Wipe painted surfaces with a barely damp cloth and nothing abrasive.",
+      "extraSpecs": [
+        {
+          "label": "Top",
+          "value": "Smoked glass"
+        },
+        {
+          "label": "Mounting",
+          "value": "Wall-hung desk, floor-standing drawer chest"
+        },
+        {
+          "label": "Includes",
+          "value": "Mirror, drawer chest and stool"
+        }
+      ],
+      "media": [
+        {
+          "asset": "dressing-table-glass",
+          "shape": "wide",
+          "alt": "A wall-hung dressing table with a smoked glass top and black handles, under a full-height mirror, with a matching three-drawer chest and a round stool."
+        },
+        {
+          "asset": "dressing-table-glass",
+          "shape": "square",
+          "alt": "The smoked glass top and long drawer of the wall-hung dressing table."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "dressing-table-lit",
+      "sku": "FV-DTL",
+      "name": "Dressing table with lit mirror and display cabinet",
+      "category": "beds",
+      "published": true,
+      "featured": false,
+      "basePriceMinor": null,
+      "stockQty": null,
+      "leadTimeDays": 21,
+      "updatedAt": "2026-08-20T13:20:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "An eight-drawer dressing table with a lit round mirror and a matching glazed display cabinet.",
+      "descriptionMd": "Eight drawers — four each side of a knee space — under a lifting mirrored tray, so the things used every morning stay on top and everything else goes below.\n\nThe mirror is a lit ring rather than a lamp standing beside a mirror, which puts the light on the face instead of across it. That is the difference between a mirror you can put make-up on at and one you cannot.\n\nThe glazed display cabinet is a separate piece in the same finish, lit on each shelf, and can stand either side.\n\nSupplied with the stool shown.",
+      "careMd": "Wipe painted surfaces with a barely damp cloth and nothing abrasive. Clean the mirror and the cabinet glass with a cloth rather than spraying directly. Rub a candle stub along the drawer runners if they begin to stick.",
+      "extraSpecs": [
+        {
+          "label": "Drawers",
+          "value": "Eight, four each side of the knee space"
+        },
+        {
+          "label": "Mirror",
+          "value": "Lit ring, over a lifting mirrored tray"
+        },
+        {
+          "label": "Includes",
+          "value": "Display cabinet and stool"
+        }
+      ],
+      "media": [
+        {
+          "asset": "dressing-table-lit",
+          "shape": "wide",
+          "alt": "A white eight-drawer dressing table with a lit round mirror and a stool, beside a matching glazed display cabinet lit on each shelf."
+        },
+        {
+          "asset": "dressing-table-lit",
+          "shape": "square",
+          "alt": "The lit ring mirror and mirrored tray of the dressing table."
+        }
+      ],
+      "variants": []
+    },
+    {
+      "slug": "pedestal-dining-table",
+      "sku": "FV-PDT",
+      "name": "Pedestal dining table",
+      "category": "tables",
+      "published": true,
+      "featured": true,
+      "basePriceMinor": null,
+      "stockQty": null,
+      "leadTimeDays": 28,
+      "updatedAt": "2026-08-20T13:20:00.000Z",
+      "materials": [
+        "Mahogany"
+      ],
+      "summary": "A dining table with a rounded rectangular top on two fluted cylindrical pedestals, so nobody sits against a leg.",
+      "descriptionMd": "Two fluted cylinders instead of four legs. The point of it is underneath: with the supports set well in from the ends, chairs go anywhere around the table and nobody ends up straddling a leg — including whoever sits at the head.\n\nThe top is a rounded rectangle with a deep bullnose edge, so there is no sharp corner at hip height in a room people walk around.\n\nThe fluting is cut into the solid rather than applied, and runs the full height of each pedestal.",
+      "careMd": "Wipe spills promptly. Re-oil the top once a year with a lint-free cloth. Dust the fluting with a soft brush rather than a cloth, which snags on the reeds.",
+      "extraSpecs": [
+        {
+          "label": "Timber",
+          "value": "Solid mahogany"
+        },
+        {
+          "label": "Base",
+          "value": "Two fluted pedestals, set in from the ends"
+        }
+      ],
+      "media": [
+        {
+          "asset": "pedestal-dining-table",
+          "shape": "wide",
+          "alt": "A mahogany dining table with a rounded rectangular top on two fluted cylindrical pedestals."
+        },
+        {
+          "asset": "pedestal-dining-table",
+          "shape": "square",
+          "alt": "The fluted pedestal base and bullnose edge of the mahogany dining table."
+        }
+      ],
+      "variants": []
+    }
+  ]
+}

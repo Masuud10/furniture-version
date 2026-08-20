@@ -1,0 +1,1076 @@
+{
+  "sofa-set-7-seater": {
+    "path": "/media/sofa-set-7-seater.mp4",
+    "posterPath": "/media/sofa-set-7-seater-poster.webp",
+    "width": 720,
+    "height": 1280,
+    "durationSeconds": 19,
+    "bytes": 2819718,
+    "blurDataUrl": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAwCdASoMABUAPsFOoEqnpCMhsAgA8BgJZQCo9CLsU6/gM7Vr3r3AAP5qVWCc9h4E95CsuNSqYr4seysMIIsnJCRM40jeM/w1d/yUy6TPsA7nEdW3kb3gAJqVKE3QBQRVGX4b6PaM3CnCewCGo1mlPtKvl3oAAAA="
+  },
+  "sofa-set-7-seater-still": {
+    "wide": {
+      "path": "/media/sofa-set-7-seater-still-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoMAAkAAsBIJYwCw7EXZvg7TR0AAP63WZ9MrFiofBetJXr9SiaRRowMlzvGWNNWGAATPKSEb3qHL0kwCDYTOQIPgImTBUAA"
+    },
+    "square": {
+      "path": "/media/sofa-set-7-seater-still-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoMAAwAAsBIJYwCw7EXZvgyWqUAAP63WZ9MrFiofBetJXr9SiaRRowMlzvGWNNWGAATPKSEb3qHRnTWMmSNQraObHKJ+o5e5Q2i3QBRGCNAAA=="
+    },
+    "pano": {
+      "path": "/media/sofa-set-7-seater-still-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAcAAsBIJYwCw7EX6u29mbQAAP63WZ9MvzVLb0Qv3XLy4Ra80UMT3sXDEJ8kBSx1Y56cJgbLQeZKzQMheFwAAAA="
+    }
+  },
+  "corduroy-sofa-full": {
+    "wide": {
+      "path": "/media/corduroy-sofa-full-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAAkAAsBIJQBOgCH6xlfmIRwA/sqisn33BeerSO48VrdqKqYOIDA1S1h21jFA/39v1blQweIAMMyecN/rMjzsm1AAAA=="
+    },
+    "square": {
+      "path": "/media/corduroy-sofa-full-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoMAAwAAsBIJQBOgB0/IPGaAAD+2FZMVJKo3RVnrtzWN8mENIiKDS3rZAUwJJaZsV0z7aFahIByVH7bweBnaoazQAdqAAAA"
+    },
+    "pano": {
+      "path": "/media/corduroy-sofa-full-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAQAgCdASoMAAcAAsBIJYwCdAYr7axt+0KAAP64IY9tJ/ut4w7/zXs/bkeOZd6pwk/Vd6esSBB/+UnYR9UKYYA7YTyAAA=="
+    }
+  },
+  "corduroy-sofa-detail": {
+    "wide": {
+      "path": "/media/corduroy-sofa-detail-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAkAAsBIJZwC7ADdHUbaUsAAzfknK239jxJ7g6pNZgvtjo4iZs4xJeh+nnPoEr/pBaCjNnASIgHpr64MAA=="
+    },
+    "square": {
+      "path": "/media/corduroy-sofa-detail-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoMAAwAAsBIJZwAAloV5n5poADN+6uym3vYR7FdVxROy2+Ww+Z+wkv+EQS+pa9PyBk6CmXd+QN+RCiUKTT5+fSKP6zw0wG39zIAAA=="
+    },
+    "pano": {
+      "path": "/media/corduroy-sofa-detail-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAcAAsBIJZwAAlyiDUoAAADOLpYWcv34JWqG5xl/uc55NgailbAN7sTM6HGt3LSxHjjII+ToxZFQIf03EUAA"
+    }
+  },
+  "corduroy-sofa": {
+    "wide": {
+      "path": "/media/corduroy-sofa-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoMAAkAAsBIJYgCdAYt9na/pALMAAD+nBFEbdkmIZji1Q/T9iB7izuIug8zAMXu6T8po4gZORbGhZmwOpQaX43prtMtA8UhwvS2R3+AAAA="
+    },
+    "square": {
+      "path": "/media/corduroy-sofa-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoMAAwAAsBIJaACdADZujS/0ggA/m0efB3W0hpR8oXRWFLtelO2glVfGYZDdc7rvBjPk7DCmEBVkm36Djd5dXnhCeRPXNSlMskEZlg2wxhXRdw7LobyAAAA"
+    },
+    "pano": {
+      "path": "/media/corduroy-sofa-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMAAcAAsBIJbACdAEQ+dT/pcAA/vCHx59IL/tYuL4loFpdwQOknDbeZb13tOzzV5JIxnizZ4w6TnT9FczGLAoAAAA="
+    }
+  },
+  "shoe-rack-curved": {
+    "wide": {
+      "path": "/media/shoe-rack-curved-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoMAAkAAsBIJaACdAEWO1KdbwAA/kWTZXJFpA0uE3ar3pRF4EBcdict1Xff6DfNo7G79USU0vHnxkpL7Sdazt0f7OGJH+pRhzp2oPSqOHRKgAAA"
+    },
+    "square": {
+      "path": "/media/shoe-rack-curved-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoMAAwAAsBIJagCdAEem33YywOm4AAA+yFJHTwFzqP1X4KKVpV/gym1IzEl31ngrSbHVp5cLfmwWd/chk5AH/sbJB4sYN7xO7NogaM3KnC99kw/F7AAAA=="
+    },
+    "pano": {
+      "path": "/media/shoe-rack-curved-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAcAAsBIJaACdADhmIREBAAA/tI9M5E/3VCqrOa1dLgYTr/55/ULO/DC+iOu8KUnaz7Cr9nciCkvJsF/Bd/PhfgwKOJmU/XBkAAA"
+    }
+  },
+  "leather-sofa-tan": {
+    "wide": {
+      "path": "/media/leather-sofa-tan-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABwAgCdASoMAAkAAsBIJYgCdAYsP2Wfu4xV7e4AAP73Pq9EGqNRHX5Bp1h+vL5qEq8tPuJ5aUHOIZgjMo80yW9geusLCCE6LbcnYzLuzgxPDRttrQd1d7ZPAAA="
+    },
+    "square": {
+      "path": "/media/leather-sofa-tan-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoMAAwAAsBIJYgCdADcUko+doAA/vdXSWGy367oFQfq+57IJ7wtID2A09Eon75oyg5a6Oix5haJi8tkv6fsew+StyMc/++ydRLNGRWUiKAAAA=="
+    },
+    "pano": {
+      "path": "/media/leather-sofa-tan-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoMAAcAAsBIJYgCdAEVrugSdt6AAP7wr+dncmddN5YDHFKzWvhJZVnWH9nqIsUPq0QZJvHw75ANpf46UmwSqGxniqRsHzQPMsSLgAAA"
+    }
+  },
+  "round-table-styled": {
+    "wide": {
+      "path": "/media/round-table-styled-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoMAAkAAsBIJYwCdAD5f4iIEADOMKPxg89O9754TFn6dtT8O+OyDkQJltZcjxJpdVGnKo4YS8R031hcq2ubsh8H7YTFlUTeJEUMCrAA"
+    },
+    "square": {
+      "path": "/media/round-table-styled-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoMAAwAAsBIJYwCdAYqhvzyYYD9VAAA/gEKVQfESgTHx3jAItzwfhctw/q7HSPUF8tgW9J76cOMkI81CG8AVfICldxSrXPg55C22mcT7NPx88lAAAA="
+    },
+    "pano": {
+      "path": "/media/round-table-styled-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAcAAsBIJZQCdADdtLSvAgAAzKKmJ9E+RbsWoG0em7iA+uwbW2VPTvqvu85QW9IPI6wvGFdlYp1ceUgAAA=="
+    }
+  },
+  "round-table-detail": {
+    "wide": {
+      "path": "/media/round-table-detail-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoMAAkAAsBIJYwCdAELLKzekgD+8Z4rx0h8JtXoh1wkUKgIgx+/8qNXymNTfwytS0oX19x1X8vRYKR1aZkyyGofr5+sgAAA"
+    },
+    "square": {
+      "path": "/media/round-table-detail-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoMAAwAAsBIJYwCdAYvruE2sUA5WAD+8Z4rw2GtKaE1g1yl5jh5sXDd3Z+PpMdJyt1GBPR1hLxBsji7UbaiRvfThRf+YxaTAKvW6wGIVuhdgfUwAAA="
+    },
+    "pano": {
+      "path": "/media/round-table-detail-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAAcAAsBIJYgCdAD8LPYtE2gA/u0B1KnHYe8VmtMHrM4Nlzi8Xy0GjnRBxMv/XWIqvYtgxqFenGLhzEBfzV5SL96AAA=="
+    }
+  },
+  "dining-set-8-b": {
+    "wide": {
+      "path": "/media/dining-set-8-b-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAkAAsBIJYwCdAD7Fh0htdgA/DPjpxABknFsowlHUEed7Shnjoa4pH+ye/tSdo2B12el2WQJ/TcG5sTKGB6N8JYbraM9YP+FQAAA"
+    },
+    "square": {
+      "path": "/media/dining-set-8-b-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQAgCdASoMAAwAAsBIJYwCdAYuvnlPaKOaLMq6AADOC8/JxDJsvFWlvYRFmABvPIZ2BYI0gon/Qy8Zj+D8OZytOTM3/BhTGwJDyp/7z1WRxdOo7tSqqGhl1rdqPCoAAAA="
+    },
+    "pano": {
+      "path": "/media/dining-set-8-b-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoMAAcAAsBIJYwCdADbRQwRgAD+T1JZ1D3+JxcoUbKtcfz+jTbqVGyd+CUqK6Y6rwDttTGd951n+VJI2BExthqfh6g7v0cAAAA="
+    }
+  },
+  "dining-set-8-a": {
+    "wide": {
+      "path": "/media/dining-set-8-a-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoMAAkAAsBIJYwCdADZjhkUAAD89YmQuno4w2TWAB2koNOrAbZN/vkuCzRE8mVNp5fgALhyESS3VCF6vCMLXOFZZiFIsXa16FZVlIAA"
+    },
+    "square": {
+      "path": "/media/dining-set-8-a-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoMAAwAAsBIJYwCdAYuRwfpyhJoiwAA/lWEYNNgfFDji5+UPryxIPxeyRyD/b6UbpGJ802M9d+frliHsmvVyjzmkaVPWwD6Jpx0vIAh60EvIlDqEWGN+3RCmYAAAA=="
+    },
+    "pano": {
+      "path": "/media/dining-set-8-a-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoMAAcAAsBIJYwCdAYrdc7bbUvQAM47uyvONAe/sjf1exPo9MrV1vm/u3UTGLAV17h5zSAHk/ECrl7SyRJq0iC+WxAAAA=="
+    }
+  },
+  "dining-set-8-room": {
+    "wide": {
+      "path": "/media/dining-set-8-room-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoMAAkAAsBIJZQCdADaOOzGAAD84iXRYpquqoa8A34ogmC8oNqoxPnnKlGfVmSSyDSlK9Og3WHuJ2TbG+1Gd4PizXiAAA=="
+    },
+    "square": {
+      "path": "/media/dining-set-8-room-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoMAAwAAsBIJZQCdAYrdZ/X1esAAPziFn5OWnAJN90+ayd+93GwSoOrh0SINF7iWrgu4WbaclL4Twjgq8KiGeJBlNDqZ/wd1/EMWg3IAxB3n3YYAAA="
+    },
+    "pano": {
+      "path": "/media/dining-set-8-room-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAACwAQCdASoMAAcAAsBIJYwCdACvZM8AAPziJdFimq6qhrxKlfLvXOhfoEEd3iocv8M35Yo5t1fmxDYrLwJVgAAA"
+    }
+  },
+  "sofa-set-7-seater-b": {
+    "path": "/media/sofa-set-7-seater-b.mp4",
+    "posterPath": "/media/sofa-set-7-seater-b-poster.webp",
+    "width": 720,
+    "height": 1280,
+    "durationSeconds": 19,
+    "bytes": 2988810,
+    "blurDataUrl": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAABwBACdASoMABUAPsFQoksnpKMhsAgA8BgJYgCdH8AC9qJ6Dj2QXvSoDSCpQAD5R239apdnu7i9hVM1R2JBVMadc4zTbcaY1O1K6cXwp//I3geqHzpnnZqcmQpGQWnvsGFDeOUuMnKnZCL7b0dSNrfW6k7V0q3Gn4GcIzdjsZknWWgNYbIP4hOoeZ7WiZLAAAA="
+  },
+  "sofa-set-7-seater-b-still": {
+    "wide": {
+      "path": "/media/sofa-set-7-seater-b-still-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoMAAkAAsBIJYgCdAECpYg28FZgAPu96/uAaMbNz20epO28MNofff0iD/lyY3axclVvKpJrO9zc67rAGMustvsHx9AKOZkJCMiI28IUYSIreDJpeAA="
+    },
+    "square": {
+      "path": "/media/sofa-set-7-seater-b-still-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoMAAwAAsBIJQBOgBeQhltsIgAA+QjlrNHtmW+S1Pqql21RMtF6VHkHEXu5Zusy12un8xyJoxLrj4a8DZ01jxih08ZwHsvVvYRbF9R9/uCH2cGn6KHNScHtiAA="
+    },
+    "pano": {
+      "path": "/media/sofa-set-7-seater-b-still-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoMAAcAAsBIJZgCdAECpvNtccxgAP6mzodsnC9asW7jzpigC6DhMu/f06GlLv97Q6S6YRafyVZ1lNGNsY5t8MC8wTER3YpssA9s8cAA"
+    }
+  },
+  "bed-mahogany-a": {
+    "wide": {
+      "path": "/media/bed-mahogany-a-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoMAAkAAsBIJZwC7ADx56F9gAD+sLu6c32lZDchHLoEDn/9WEQ6JbfMC8ytIAaCe7DWRXwdQof3yArQVRSjBgkKC6RIAAAA"
+    },
+    "square": {
+      "path": "/media/bed-mahogany-a-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoMAAwAAsBIJZQC7ADzszUQ2TUAAP7UN7uiqNw/jSJOAZmMBVILzm+z5f+Oj+hHedcCvS4d5is/G7A2IVmt/l5v5+rlwXvwgqdmdX+VO4ggAA=="
+    },
+    "pano": {
+      "path": "/media/bed-mahogany-a-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoMAAcAAsBIJZwCw7D0DhCJXgAA/o+HKB1rO3hCzGJRGE0g61ZZ3weaSRvmpDLRtm3/X9KIlMsN/Ely+usm54AA"
+    }
+  },
+  "bed-mahogany-b": {
+    "wide": {
+      "path": "/media/bed-mahogany-b-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACQAQCdASoMAAkAAsBIJYwAAlE2sAAA/gssv93ncf2BlLnwNTbe0xoE+9ycN1P/okA0+V6WL4d3O6F6/ONd5gJMAKQd+zVCAAA="
+    },
+    "square": {
+      "path": "/media/bed-mahogany-b-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACQAQCdASoMAAwAAsBIJYwAAlKMOnAA/gssv93ncf2BlLnwNTbe0xoE+9ycN1P/okA0+V6WL4d3Wn/6lsCASROOZPjE5Y3xvxJSA4v6fZ6lgH7XCDwQAA=="
+    },
+    "pano": {
+      "path": "/media/bed-mahogany-b-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoMAAcAAsBIJYwAAlnaB3l6gAD+Cyy/3edx/YGUufA1Ntxkl99lQqk1XPoU/FqakUKq1Bu/4p32wmsKAAA="
+    }
+  },
+  "bunk-bed": {
+    "path": "/media/bunk-bed.mp4",
+    "posterPath": "/media/bunk-bed-poster.webp",
+    "width": 720,
+    "height": 1280,
+    "durationSeconds": 19,
+    "bytes": 2555453,
+    "blurDataUrl": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADQAwCdASoMABUAPsFQoUqnpKMhsAgA8BgJYgDG9CHW7MzWSnKmCjgA/eOw8Lwi77R/iIHNcerC0SkGLicLCjRSHLMXDsH4w/hlSakFX2oyDOH4oysJOvYbf1/2BMDMuqibeuOAUDekIrps/bIAAA=="
+  },
+  "bunk-bed-still": {
+    "wide": {
+      "path": "/media/bunk-bed-still-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAkAAsBIJaAC7AELN/0rcAD+61x2emDK/+J19W3epBpYD1nP5Bl/yhCTLQw+5vrkDJorNR0Wb4w3Sl4miQAA"
+    },
+    "square": {
+      "path": "/media/bunk-bed-still-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoMAAwAAsBIJZACdAEQFWq2pF+ZaAD+61x2eo8wYsX82+4pZtRa/T1yePe2zcFNVHlMCD6Ta+ztFIZ++ezTpvMIe10GnRPZ7lwAAA=="
+    },
+    "pano": {
+      "path": "/media/bunk-bed-still-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAcAAsBIJZAC7AEQ0dgMMvcAAP7XOgmeuUdqLIri36In2jCcw/YMXUvl19TqRWZNrKL1RJOEfQeXh5l4hDvbAAA="
+    }
+  },
+  "dressing-table": {
+    "wide": {
+      "path": "/media/dressing-table-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMAAkAAsBIJQBOgCBYHZvSI6gA9r97MeqfV7NlTqZGWDU3SDI0Z9yQgZJc5ajlRsM63Gvb7m4eyKQVL4h1dTx9dEkNRSAA"
+    },
+    "square": {
+      "path": "/media/dressing-table-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoMAAwAAsBIJQBOgB/SKByf6oF4AOJ/NGPvCf4gFz+MYRK93uVwbVTv0bXFa+zbgBRZ7qLeEv9qBx/rcbveCh8beOXp9mF7fwaqsD8ZRZSIAA=="
+    },
+    "pano": {
+      "path": "/media/dressing-table-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoMAAcAAsBIJQBOgBdLbLA2AAD2v3sx+KJ5Qs4Aw61J/dtuYNZaTZbDSB0v6MSJ4oUyE1m0pZmJ6BDhls4GfaiV9fAAAA=="
+    }
+  },
+  "green-sofa": {
+    "wide": {
+      "path": "/media/green-sofa-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoMAAkAAsBIJQBOgB6BYnBAAP67YbEHJ+UpflXMwty3xBMdkiLVRq/2FEF/khR3dO5OrdQ7eNJS89pRNC2d6S6Fa74gAAAA"
+    },
+    "square": {
+      "path": "/media/green-sofa-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoMAAwAAsBIJQBOgCFN4OD4fAD+3OQmUUzNEPvxmSlRf4MEfnF897bvRIO+Npm6Tv2nD6cgCqm34IZgkRfzIk3ViqWKReWReBGEx+VN+1wAAA=="
+    },
+    "pano": {
+      "path": "/media/green-sofa-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAcAAsBIJQBOgMWbz9Rpy40gAP7c+IUwDqrdnJ48Kc+tkWdNmAaBgZJO0kOqQwtZ3DubyK1OW4xjkYTHS5hgAAA="
+    }
+  },
+  "dining-table-a": {
+    "wide": {
+      "path": "/media/dining-table-a-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoMAAkAAsBIJQBOgB9fUbI5HgAA/omtYCMBTA5mkCkphYWFAHoPcE4Jh0JWh/hWkUGmugeiK1Jen5/3e3LCdZXD8niM0VqACtPxmuAttWojggxDAL0/lh4AAAA="
+    },
+    "square": {
+      "path": "/media/dining-table-a-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADQAQCdASoMAAwAAsBIJQBOgMWHdhvoAAD+Tv6wOQHex/Khm7t51E3iWNmIxTjl+3O6ijujZEXPMt2uCP1WyPi4PUxiVO+F5jQudlVl6uPJvKc4C9HkTGMmTwAAAA=="
+    },
+    "pano": {
+      "path": "/media/dining-table-a-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoMAAcAAsBIJQBOja/h43WpN7zraAAA/qudNX4l6sq2AOCkVW6F1nsW92FLxa/CqBFv5pIoQ2XQYyDuoqS+ebqiNX4N+z10+0VjRB36N0I6UUAA"
+    }
+  },
+  "dining-table-b": {
+    "wide": {
+      "path": "/media/dining-table-b-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoMAAkAAsBIJZQCdAEfbqPFpbrl4AD97Who+6qaeD6aFZjklRPXfC/FqIvtYo0ISria9xOUwm5xm6F2zee5YQEGa3YCZCVaJTdAKQwAAAA="
+    },
+    "square": {
+      "path": "/media/dining-table-b-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoMAAwAAsBIJZQCdACg6ikngJ4AAPyKOaOOni5C0X+g83vI0envx789wYEmQEq31PCM6xZ06e/zMLGlV+dURx12aGScehLOJbl8YapiRJOB1iEMAAA="
+    },
+    "pano": {
+      "path": "/media/dining-table-b-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAgCdASoMAAcAAsBIJZQCdAYsZk0cNYMoQADOMgPa+dkajKuAlFA2N1jfRta/g4CdUCq/m9CW+uOL6Xmm+relFcsDhJ8AAAA="
+    }
+  },
+  "cream-sofa-set": {
+    "wide": {
+      "path": "/media/cream-sofa-set-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoMAAkAAsBIJZQCdIExGLEAMU50QAD5bw7qVdm6oYCbpZ8fcO948bPjSlv+BZipdNk2D5AG5/ZE9IPJm9zYFP8eFcouPg3E/3eY86AAAAA="
+    },
+    "square": {
+      "path": "/media/cream-sofa-set-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoMAAwAAsBIJYwCdAYuHbaNaPdxBKQA/fmbltemISznlWHYhi7ziKBMa4kcStdvXEaibRaTfPH1904cVrwuPdtoZbUtAI274EpFO5kM3KCSLlUrCKsAAA=="
+    },
+    "pano": {
+      "path": "/media/cream-sofa-set-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAcAAsBIJZQCdIExE4e2nP7wAPlth64vA2/+dtZ55fmPc2z2qED58VOUt2Mi4dwVqgdbNTDBoqoeN6tCmiQAAAA="
+    }
+  },
+  "cream-sofa-set-b": {
+    "wide": {
+      "path": "/media/cream-sofa-set-b-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQAgCdASoMAAkAAsBIJZwCw7Yuvqc445/2sAAA/DhwRffHdpP3q+SeaPB0PzMtiJ0AoDcenNC1URn5wE0lWCfm8VEyPOZKZGAUnSCICuy17qGR3YmegjmYRVpMAAAA"
+    },
+    "square": {
+      "path": "/media/cream-sofa-set-b-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAABQAgCdASoMAAwAAsBIJZwCdAYtzqc448HL3KAA/DhwKffD03f2E99Q5F3xIyWM9xtR5rkYlIt0KCTHHkJ7w/pyno3M/p3EaHIMJqJX5TzUssbwS3d143vOxsbYhPZCwp9s9xcUAAA="
+    },
+    "pano": {
+      "path": "/media/cream-sofa-set-b-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAQCdASoMAAcAAsBIJZQCdADbmHYPgAD8OHIg/AVkWADLp1GHgq5rPuTW/I6/KgAB9cJvVemCaWJp5OnhfPfV/Ghc4jHTA8B3LKsi+SD9S/oWkrDwAA=="
+    }
+  },
+  "cream-sofa-set-c": {
+    "wide": {
+      "path": "/media/cream-sofa-set-c-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoMAAkAAsBIJYwCdAEVwYVL14AA/ua4yyAgEGmg3K7UOaQGI6D09cj2u+Cww8O+NNTnZ3Fkzqj1rmDhouUqzV1ehBTzxvOU+klafpYTbPuTALxCQCgAAA=="
+    },
+    "square": {
+      "path": "/media/cream-sofa-set-c-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAgCdASoMAAwAAsBIJZQCdAacvnD580FsgA8mAAD+82Fmp9ZiByyoxpNS24E7LxcEcPwOHaJnA1uHrubiz8vd89/vktf+tZpXHPBoaPiP874JA2BcpqqsPyA5QOPUad/ATZ2AAAA="
+    },
+    "pano": {
+      "path": "/media/cream-sofa-set-c-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoMAAcAAsBIJYwCdAYoBwkOGL1sAP5FSj9T1m6Rb95yZXcBFL0eYiJ2dvQsdNQnzy9tmJFPk73d8GvN7O33n3pIUECFAAAA"
+    }
+  },
+  "wooden-bed-2": {
+    "path": "/media/wooden-bed-2.mp4",
+    "posterPath": "/media/wooden-bed-2-poster.webp",
+    "width": 478,
+    "height": 850,
+    "durationSeconds": 19,
+    "bytes": 3687203,
+    "blurDataUrl": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAQBACdASoMABUAPsFOoEqnpCMhsAgA8BgJQAhAACSddlWlduEJGk+z6AD90f3Ty/hhi2wmBQn7QJkTEP9yvpmfUXh2/+FGNGBKiKaEdrj0EMNiw4XCzVJXbScaNAbnQAPEnbgE3wAhPfXK+uiXrfZaf3sOGqu/YOmNP6Pc/be0G82nV2TwAA=="
+  },
+  "wooden-bed-2-still": {
+    "wide": {
+      "path": "/media/wooden-bed-2-still-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoMAAkAAsBIJYwCdADdsr/uH7gA+WV7ibs8C8vKisQLK1Unj3JErgLXQEaXhKiJgDlyLyovm84NneoA2KFpqrmBB6jTxCgPPIBZ+2fUBjdNiW9Q5AA="
+    },
+    "square": {
+      "path": "/media/wooden-bed-2-still-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAgCdASoMAAwAAsBIJagCdH8G6A5/8DHy8PB1MhsAAPlldrnePj5/qvk86twR8bc6hi1ZtLM5OeaBcz2fq9MAQh/fB15Z7ntcFbvddCMytgE935uUZ9zL7LGhFb/bnxXuaVYXhHAAAA=="
+    },
+    "pano": {
+      "path": "/media/wooden-bed-2-still-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoMAAcAAsBIJQBOgMVB4FpnaL1jAAD8M93xwgp572Sjz1SKGawQ2kirmiXl16gF5cNvyinW3hatXYnJkIv2c3r5Dau7xF592/AVxa3kaQgQAA=="
+    }
+  },
+  "sofa-set-pocket-spring": {
+    "path": "/media/sofa-set-pocket-spring.mp4",
+    "posterPath": "/media/sofa-set-pocket-spring-poster.webp",
+    "width": 720,
+    "height": 1280,
+    "durationSeconds": 19,
+    "bytes": 6572183,
+    "blurDataUrl": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQAwCdASoMABUALpFgsFgip6enh4CQSxgE6AIcSdQOvoaIlRiYAP6ufYgtt5qLsNgotrU23JyR0g/YOr+oKOGxrcs7vJEkAEPsqUYePbyT52PDiPT7Ga5P3KWXh4N3xT0YHpGjJ9w5th5UvkJ/iUCkogQAAA=="
+  },
+  "sofa-set-pocket-spring-still": {
+    "wide": {
+      "path": "/media/sofa-set-pocket-spring-still-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoMAAkAAsBIJYwCdADdKwjT9AAA/sn5K9+i3aJVNTvYr9b2NSuJF8RxsjTbIRnuG5h+LMdFpmKuVX085SPg1RFNRWCHRIp4AAA="
+    },
+    "square": {
+      "path": "/media/sofa-set-pocket-spring-still-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAQCdASoMAAwAAsBIJYwCdACQuIb6AAD+tA3kVMo7/fZb6q5ADM7Bs5nH5rdoKeu443wNq6sNjuKstk49Fx0I57FuOCr+VEiO9xMsyd+dul5TB3QUAAAA"
+    },
+    "pano": {
+      "path": "/media/sofa-set-pocket-spring-still-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAwAgCdASoMAAcAAsBIJYwCdAYtBqfrV6sXAAD+2GDJ3drPNhO3TK5FwSsFq9Q1DtanmTc+Ry6SEIr82iclUkUhv2JnVF/2AAA="
+    }
+  },
+  "square-coffee-table": {
+    "wide": {
+      "path": "/media/square-coffee-table-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAQCdASoMAAkAAsBIJaACdADYC1QAAP7FuNZCN8dhYkGgKYchgI4ifUYE/5P13VTu4nsZ4K8wOcZzryItqO5n/tbv6QaLDCgHo0j5K0d7zVQAAAA="
+    },
+    "square": {
+      "path": "/media/square-coffee-table-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoMAAwAAsBIJagCdAD7EYbNaAAA/o4eI+nsU4PmZUOJH/P61PdgayddWUSmI9NKiOkqRN852VnJLYMnbGKQbu5u7JW32MyQxutaZpb3lS9NlCsJyfs71AAA"
+    },
+    "pano": {
+      "path": "/media/square-coffee-table-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMAAcAAsBIJagCdADbghDHkgAA/o+0U0vXjlpepRfCwhTn9bG62KTk37zAH7dQ8mpKQB8+0uyZIyX1GjVSsG6WHx2PVwAA"
+    }
+  },
+  "grey-sofa-set-a": {
+    "wide": {
+      "path": "/media/grey-sofa-set-a-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoMAAkAAsBIJZQAAsaXLAZuL5AAAPa/8iakUf1AU9Zw/RuyPGLh+CczBgSk6IEeaz0NnUIdaOIckY8/jVquUd94ACYd5AGLnwAAAA=="
+    },
+    "square": {
+      "path": "/media/grey-sofa-set-a-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoMAAwAAsBIJZQC7AYvXbZygrzPhIAA/ceYJDPA7CnJ8c5PjPXRP7BQYQyY0GKN4V96tOi/RofpjKRWO2I5NDhccBSz8GH7cllOp6Jilz89NYAA"
+    },
+    "pano": {
+      "path": "/media/grey-sofa-set-a-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoMAAcAAsBIJZwAAp/bp+lbAAD2v/ciSmSkVLr8+DXu6ejFVeoWfUFS7n/bUWPZ0HiwA6CW3CmrazdbAAA="
+    }
+  },
+  "grey-sofa-set-b": {
+    "wide": {
+      "path": "/media/grey-sofa-set-b-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAQCdASoMAAkAAsBIJQBOgBunZ9woAPzwsSoq3Kj5ZSMXmE4OJ0k6uR3+89dHbxYbi/qBQk5apLyyCigWVIE6QZO5NGeAys6kq9dSRxHYS2gA"
+    },
+    "square": {
+      "path": "/media/grey-sofa-set-b-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoMAAwAAsBIJQBOj+ACdmzy1CwAAPzwsSoq3Kj5ZQt5/6fNYKuu1VCqtSxdxqsy6th3D+46vdjojavUoefPq23w8GVBS6c1g6vZboPBijKe333HFaGf/h2Hq6AAAA=="
+    },
+    "pano": {
+      "path": "/media/grey-sofa-set-b-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoMAAcAAsBIJQBOgB9lW5AwAAD+BWrWnysm/rix9HdSMSlAxfDkmkFh7gh996vP2egqzx4oJHt98OG4JcZgjeUSgAA="
+    }
+  },
+  "grey-sofa-set-c": {
+    "wide": {
+      "path": "/media/grey-sofa-set-c-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwAgCdASoMAAkAAsBIJZwC7AYq/baL7gVqwAD9lMFNM03jgosKs0piDkkEbztkDuYpLnrcfpQBsSgzlp0+bdCXEId6u2y3ufXSZqx8GnABV4BlaaoAAA=="
+    },
+    "square": {
+      "path": "/media/grey-sofa-set-c-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoMAAwAAsBIJZQC7AD0k7aX9YAA+2zD4DLL9+B6ZGta+utUyVyQvD5eWKfgtwtxILE2cqNm3/lMPKNA9NNetHeGmIynKy1BKQN+siqnqVhhQg2Vabmq05iHgKm9AAAA"
+    },
+    "pano": {
+      "path": "/media/grey-sofa-set-c-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAgCdASoMAAcAAsBIJZwCdH8AgjCbotEmAAD79AFy9HwGyzj6OBFFqU55ZUrABR7hKhtObq3VTJp3hkLU3uLPzhAjMWU6XRCqUiKqAAA="
+    }
+  },
+  "navy-sofa-set-a": {
+    "wide": {
+      "path": "/media/navy-sofa-set-a-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoMAAkAAsBIJZQCdAEQzZ3H4ArAAP7dWnQFAYBcFzWg0/d1tdeYBxUL0m0LxyFOxefC/tODeC5g3zy3A+fHPA/559JBLN119suggAAA"
+    },
+    "square": {
+      "path": "/media/navy-sofa-set-a-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAgCdASoMAAwAAsBIJZwCdMn8IG8wJ6HKK5nMAADMo1PbgttVtJ9Y5pLoAD13CBDC5RR2BJOzQI4OidrxroEo4+I7C8kZh5AH0FUKylqT1sRv1I8ZZEhHEGZtASZvph3skAAA"
+    },
+    "pano": {
+      "path": "/media/navy-sofa-set-a-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoMAAcAAsBIJZQCdAYrnbZwNnhAAPa+addMm1QG1mH/2ap7j2XoNapVssi3JoxSZeOCJ8ZVlFyqIK/QkUHc0mgn7emAAA=="
+    }
+  },
+  "navy-sofa-set-b": {
+    "wide": {
+      "path": "/media/navy-sofa-set-b-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoMAAkAAsBIJZQCdAECpWymDfkAAP7e69guI2B8fn9N8dxVqMCMGwTOJPLA+0Erypqn7flRIb058pucIF8/PB9lXRCd8qWBLwlnhoAA"
+    },
+    "square": {
+      "path": "/media/navy-sofa-set-b-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoMAAwAAsBIJZQCdAYst2WTMqmfhWAA/rgHvl5Qso52xb0vGkSIcdt3niGpYIITYoXGsTaG07MXfZxfVKEh+YOPdcRkHTZjI/LeoQSARmYH19RqESPYEFqQAAA="
+    },
+    "pano": {
+      "path": "/media/navy-sofa-set-b-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoMAAcAAsBIJZQC7ADcQZhVDwAA/sbucox/iNwzhpeXgkE7rNRX60hX+Q21cU/83ZQyrX28r7z4uNQEve+FlpAobfplIbD4wQpAAA=="
+    }
+  },
+  "navy-sofa-set-c": {
+    "wide": {
+      "path": "/media/navy-sofa-set-c-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAkAAsBIJZwCdAD8J4t6kYAAzhARMUgDtCeK8xdqv4hKIYdMaU+DzKICtVGYvfvVxzRQbW0VN3zhV4AS/Oz5UgsvCBgXBlEzQAAA"
+    },
+    "square": {
+      "path": "/media/navy-sofa-set-c-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoMAAwAAsBIJZQCdIExgryPiXAAiAAA/t7+Y1g08GfhIjKzaWchPy1AvRFmoHUmECU6qjfqtu/qZ0y2UnyAP8TatwILYZdZFqTd+5u5VPk/0AAA"
+    },
+    "pano": {
+      "path": "/media/navy-sofa-set-c-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMAAcAAsBIJZwCdAELW9qiTZAA/CWfbDatomtKy7AJmuRMZvxvZLnsIe1kih/qA3C96N1mUe2ultiTQMCxHsJHAAA="
+    }
+  },
+  "navy-sofa-set-d": {
+    "wide": {
+      "path": "/media/navy-sofa-set-d-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoMAAkAAsBIJZQCdAELYr6/VFoAAP7k7/acrruGGGlvHcRzLV4ItCjdB2OtJHcwk1k8k7e+NqsziTCHlr469/NBMSdsGMA4o8OSUw6mAaAAAA=="
+    },
+    "square": {
+      "path": "/media/navy-sofa-set-d-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAwAAsBIJQBOgCLGbu3JxEAA/OI0I1ts1t70UXH9nA88hdO/BYK4W+mwSBW1K5WJ4p/1dDMl5vWCKVFYkRL1o4FhhH4WUQMOAAAA"
+    },
+    "pano": {
+      "path": "/media/navy-sofa-set-d-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAwAgCdASoMAAcAAsBIJYwC7O/7BhFEWDDHYAD+S7OvxxdYx2XQeqYi8r/X+zJx98GB2oHq7HSDiqOwhDnA3//2zZTiyQ76CMYkAA=="
+    }
+  },
+  "rolled-arm-sofa-a": {
+    "wide": {
+      "path": "/media/rolled-arm-sofa-a-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAACQAQCdASoMAAkAAsBIJQBOgBsBaoAA+5ymSE3L/btekfZ9IporuFT1I/dgvJemwfisUtQnnlLVs1gi8zT3rL1QsG1iFu9yxBCCXIAAAAA="
+    },
+    "square": {
+      "path": "/media/rolled-arm-sofa-a-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoMAAwAAsBIJQBOgBePoDEUtAAA9ljyU2PNq1O6gZ6Pgoke9SdQNpYx5CkjNwOwmOCdxm84ut7q0jNQ5QFP0VP+55irN2r62BjKAJ3jFhNNNk/jMAA="
+    },
+    "pano": {
+      "path": "/media/rolled-arm-sofa-a-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoMAAcAAsBIJQBOgBuJ53xkcAD9rUebP9jgXMGoecos4USWnsr228DJqq7QyJdSS0kbpvyMquEjU5iFBEklssC4AAA="
+    }
+  },
+  "rolled-arm-sofa-b": {
+    "wide": {
+      "path": "/media/rolled-arm-sofa-b-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoMAAkAAsBIJQBOgCFqycq8QAD+L80jPFFiF8jCwYDlgtq8IxYVAVjNzk3XsBGHA6PWtZDdqBuegwvP+Yz1osigmlWAAA=="
+    },
+    "square": {
+      "path": "/media/rolled-arm-sofa-b-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoMAAwAAsBIJQBOgCIZp+POn5PJgAD+eTDrchIKlUoGivv/QFkHFOQYWS0ONNhy3DAqx1+btnJNwHKI2bNlVOBWMiHFwmqZTNiAAA=="
+    },
+    "pano": {
+      "path": "/media/rolled-arm-sofa-b-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMAAcAAsBIJYwCdADdYi8WqIAA/kJ0950jmliWKYhC3C65XsjkTovV8LJVJcRrzWybOS29VdXPvDW690hwZzJ2GAA="
+    }
+  },
+  "mahogany-bed-3": {
+    "path": "/media/mahogany-bed-3.mp4",
+    "posterPath": "/media/mahogany-bed-3-poster.webp",
+    "width": 368,
+    "height": 496,
+    "durationSeconds": 10,
+    "bytes": 2228120,
+    "blurDataUrl": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoMABAAAsBIJYgCdAD7Ft0DgNlgAP34apgQ5rSiowpDRMWSAV7fUzPLKlGDeixKroqwpjmVREJ/2cAYLHl5LVZrhV7nu3RyuwNjyptL6DSzFlPdIAA="
+  },
+  "mahogany-bed-3-still": {
+    "wide": {
+      "path": "/media/mahogany-bed-3-still-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMAAkAAsBIJYgCdAD7DiXOC2AA/fhqlYScs5Pw0helaWX6AkiYwXv+hVMTf5YLi7IgKUsVAA+vf6ThMyn6a5ZAAAA="
+    },
+    "square": {
+      "path": "/media/mahogany-bed-3-still-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoMAAwAAsBIJYgCdAD7DiJPgAD9+GqVhJyzk/DSF6VpZfoCSJjBe/6FUxN/lguLzZVPtuhIz3qYzyLUybDsNnu3v/xgufxMyn0HFcYAAAA="
+    },
+    "pano": {
+      "path": "/media/mahogany-bed-3-still-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoMAAcAAsBIJYgCdAD7Esp/g5AA/fh3SGAmp97KvpzPZYTVP+1lbR3mR8Fhot8vQKmXXU+Abh+Ga3FEu7AAAA=="
+    }
+  },
+  "dining-design-1": {
+    "wide": {
+      "path": "/media/dining-design-1-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoMAAkAAsBIJYwCdAD8ZOC3JUROAAD+7hngm+/YT0AuCc7cDt5czyyPzW0Ra1DgTJXmsrtA82pW7WedZvKf4vIgvcae+J2e8npIbFgqRF3wwAAA"
+    },
+    "square": {
+      "path": "/media/dining-design-1-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoMAAwAAsBIJYwCdAEX9Ol4gh1EAAD+8HDQWNIWu2xpBCSnkK1PcN7A1Awbx34PYfFDCT/5c6W9zCh5X56WgbI9zOYI3dxYg2+Q7i+5bYal57vhgAA="
+    },
+    "pano": {
+      "path": "/media/dining-design-1-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoMAAcAAsBIJQBOgBnwLW5BAAD+62bRMm1ewiauTCWPJ+DvhOW3U/UZyom2gzIua1fKpBaXVs0lhCqlNlnyx6O7aymWhpYAAAA="
+    }
+  },
+  "dining-design-10": {
+    "wide": {
+      "path": "/media/dining-design-10-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoMAAkAAsBIJYgCdADbpB2XYADN79T3dZpX0Zm84SWjL14+HerU1S7g1wGNm9TUedH+tf3CDi72alYxYeG1ytFdHQAAAA=="
+    },
+    "square": {
+      "path": "/media/dining-design-10-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoMAAwAAsBIJYgCdAYtpgdlTWSAAP2ab+5u3HWemUaa8mPL+R5zkKqEKO6DvQ+HMOK+Rxb0+8TB5YpOOhqCAYHMvK96WWA6uVqvwAAA"
+    },
+    "pano": {
+      "path": "/media/dining-design-10-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoMAAcAAsBIJQBOgCPOqqXnoWAAAMsLvZHhfVh4V9W8qC1W7OS2tJ/gjvlYMv9DNt4iq+vvdIQlRwsOZBKRRV8N3sAAAA=="
+    }
+  },
+  "dining-design-11": {
+    "wide": {
+      "path": "/media/dining-design-11-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAkAAsBIJZgCdAYs3bELwIAAzfNheaZYUAPwdfdKcWZ6cJl53vo1hvTqePeqzkvqKFov4cXch78sDXP1rFNYcsyO/yVfXOEwAAAA"
+    },
+    "square": {
+      "path": "/media/dining-design-11-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoMAAwAAsBIJZgCdAEavY4WE8EAAP7n+29fvgR7mJ1WcGEH9TPwXFPN37PyGuLV45sax7FB6mkOEMM1Vft9l7o8PnoUAVViJH5/PyHCy1ub5LiRNV/f3QAA"
+    },
+    "pano": {
+      "path": "/media/dining-design-11-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoMAAcAAsBIJZACdAEf5bywLCAA/iaA2eKdZdpOprZf4bmRJAk+i5oSijUstQah+Zkj8MiS9WgK5K9MD+i30N70stKODXbosAAAAA=="
+    }
+  },
+  "dining-design-2": {
+    "wide": {
+      "path": "/media/dining-design-2-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoMAAkAAsBIJYgCdAYsZdDNIy6KAAD98E2qnidmLlTpt1lkadbAnIU7pmAz++0LJvhC2phiGJoAQHtyNtlSpMR7y+7slXB+a2+cHiYJCAA="
+    },
+    "square": {
+      "path": "/media/dining-design-2-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoMAAwAAsBIJYgCdAYstdDNEwXBTSAA/e/v35ltMHtCB0DHoPYZf5grnrhN5bpPkKSraKCW0j+6IbTPu2RYF7YunDBFHQZN01Byy+TVI/buyVcH5rb5weJlS6gAAA=="
+    },
+    "pano": {
+      "path": "/media/dining-design-2-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoMAAcAAsBIJYgCdADhl68fwAD8s2qsLtKwIc3/upWR1ejL0Fj4/wjOxy75ugL5M2v+MX2xZQ9BScMpu8wYPBrdRkL6vxMDm9anAAAA"
+    }
+  },
+  "dining-design-3": {
+    "wide": {
+      "path": "/media/dining-design-3-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAADwAQCdASoMAAkAAsBIJYgCdAELT3dht4AA4gcksvTj2GWGmaz2+KORgv/Fq2Wc0ZKRO/XpImVIE5B5l0+JtKTGOf6j4j2AKLz1d/E/6k8B5LlIiMeF+J5l5AAAAA=="
+    },
+    "square": {
+      "path": "/media/dining-design-3-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoMAAwAAsBIJQBOgMXS7eG10xZKAAD+sg4CYlbeITzyaZC97j19ya4PzZhak3caVh1I5V9VhlfKc9867inQN38wDPWeRSpWUKWdN0cKWItSB1b3AIcyklK7oAA="
+    },
+    "pano": {
+      "path": "/media/dining-design-3-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoMAAcAAsBIJYwCdAYr7yVk+NbwAAD6k1JRoc1rRzE+dNvZ9qorSj0xkfZoY93zSLVWb62yDi4t7fv8nuP5gaeTdaECEpWctbjAT9dLq1LEwAAA"
+    }
+  },
+  "dining-design-4": {
+    "wide": {
+      "path": "/media/dining-design-4-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoMAAkAAsBIJZQAD5AtpGM1i0AA/rezB9cat84b2+leAVVxhGtvUfq9Hlzq3zkNp7WqLqwqOC6rbIVtnq5WK6HnmmocDYlNcqXF5EXK7Tbnfu2gAAA="
+    },
+    "square": {
+      "path": "/media/dining-design-4-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwAQCdASoMAAwAAsBIJZQAD4xtpGMaDwAA/rezB9callJVz8YRpwLF4mAlxD8hZFt3zMyJj48OmZuE8bGzE/KoVb0nrK3IefEcyTkkVSpGkyJGyvlQ+owmXb3dnY9JoWp2Vnb0jlAAAA=="
+    },
+    "pano": {
+      "path": "/media/dining-design-4-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoMAAcAAsBIJZQAD42NqNPo8tkAAP63tQ3yykRp8m9MP0ZKuIg1t6j80TlfGDvW1q3ZiGjYBo9dFyYWN298Hqk86pM0WCN7FYEz/SlyAAA="
+    }
+  },
+  "dining-design-5": {
+    "wide": {
+      "path": "/media/dining-design-5-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoMAAkAAsBIJZACdAYqDIoY6HIAAPk9GxA4rTVURr+vKE0kntQB+vJcIMzRI4Yo6uHWWp1JjMlKvn8Rtccct4dG7pb5EitAmtRHnlkmSsJoAAAA"
+    },
+    "square": {
+      "path": "/media/dining-design-5-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoMAAwAAsBIJZACdAEfg7gVELnAAP36PFe+0uBxrlZw2WYiNLQe9gmsMa35LNuu7bplRxVUVcQjGwhV9vjkXZQfkwb63qiWxy6L85eAAAA="
+    },
+    "pano": {
+      "path": "/media/dining-design-5-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoMAAcAAsBIJYgCdH8AE7oJ9oAA9r3Ebzh2s30BmRLSxeqalubvj+nYQrd9VC+wBrga9h070gh4mOlCTGeHw52xBabdXJ18smEgP9IeAAA="
+    }
+  },
+  "dining-design-6": {
+    "wide": {
+      "path": "/media/dining-design-6-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoMAAkAAsBIJYgCdADaNHUcAM3c+EkD+kJ3OGc5SFMQY5yPaq5fZ9YndVzOkFFIFYXz4oQqZkHzi/6o1kAAAA=="
+    },
+    "square": {
+      "path": "/media/dining-design-6-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoMAAwAAsBIJZACdAECthefskAAAM3c+EkD+kJ3OGc5Os/rrec9qrl9n1id1XM6QUUgVe+I36wMomRQwO6jRM1WoLL5gDvPxiVaucZoAAA="
+    },
+    "pano": {
+      "path": "/media/dining-design-6-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoMAAcAAsBIJZQCdADW1uSAAP2dLwOSIqXxnMCeDYdpg/gKhO2bJKG+7Jb0XtqGTu33z+MIpdVRmGeAAAA="
+    }
+  },
+  "dining-design-7": {
+    "wide": {
+      "path": "/media/dining-design-7-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoMAAkAAsBIJQBOgCIZnZsfMAD+8EsgIVkXp7RJe8w7DOUi4r3UoZuOpXmX61aYi6f2EyHwTX/7lo+zbID9cIhL8E4AAA=="
+    },
+    "square": {
+      "path": "/media/dining-design-7-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoMAAwAAsBIJZACdAEQzWCVkueAAP7wSyAhWEIzzQRzyd6OiI/lEFtv/5SkRatvX4gmJKfWR1Q1jyV1F8T4ITMivzMr7p2yA/W1GUAA"
+    },
+    "pano": {
+      "path": "/media/dining-design-7-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoMAAcAAsBIJQBOgB6I7B28GAAA/vBLICFZFyQHSbae/TmCZ/KsQQj6lYkq5Wp/yf8ZPh1rV9T5iwoZ6j6MGAAA"
+    }
+  },
+  "dining-design-8": {
+    "wide": {
+      "path": "/media/dining-design-8-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAQCdASoMAAkAAsBIJZACdAECndPwAPui4sUEyJ+Luy/FI8GB+9AoVTrjVR8dEFb0qdpefSgPm7EyBRj/9f1vlF4ys/ri5uePR7o6CG0oAAAA"
+    },
+    "square": {
+      "path": "/media/dining-design-8-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADwAQCdASoMAAwAAsBIJYgCdADcIM4mVAAA/ufaZakDfNSTzJA8Qegzj1nokmIWhCRmVRa+m7S1fHvvGRZGhe5wgVJk9oXIsKAzJrZIcuqVmRtIgktPVR2puRKdCXTwAAA="
+    },
+    "pano": {
+      "path": "/media/dining-design-8-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMAAcAAsBIJYgCdADdsrG2VogA/oe4gtQiapfelYMNiBf8kWTa4noyAi04mLldsIKQPfI9xXmOWZwvEO6sSyO8AAA="
+    }
+  },
+  "dining-design-9": {
+    "wide": {
+      "path": "/media/dining-design-9-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoMAAkAAsBIJZgCdAEfP1BWcSWAAN9486CA/3+SoPDqY+OmBw/+00EnlsqPVtZLvzf4u6W0ONa4XpVbzqc4IPTCSCE4AAAA"
+    },
+    "square": {
+      "path": "/media/dining-design-9-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoMAAwAAsBIJaACdAEe337h/LgA33jzoICRoXy8ciUXS+D+pJQuNaSwrS2MNclZowrDJEFZOoFzErFbPUOkuLlZURAXw1xU7UHpUjZ5AAA="
+    },
+    "pano": {
+      "path": "/media/dining-design-9-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAcAAsBIJagCdACi+ujaAADfePOggKIGvNHplKx6Srnx7W8uwxxcAlmXXBig2VY+dQG71ve3pJ0Bzu42AAAA"
+    }
+  },
+  "bunk-bed-ladder": {
+    "wide": {
+      "path": "/media/bunk-bed-ladder-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoMAAkAAsBIJZACdAEedT7nP0UAAP0AuBeR6ZC635z2uThqBtFXeaGfgs4O6hrZbdNBtBESIPn/WpyCpg885uQujqatdViql0dQYKGQ01egvG0A5a/12AdvwAA="
+    },
+    "square": {
+      "path": "/media/bunk-bed-ladder-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoMAAwAAsBIJZACdAYpba/bMRgEAAD+auzY7LPBO/bSA2pKW+Z7oZ/27bwXz6+J77i0cSDw1mgF4dwM00Oof5KENlKZ14hZeCFVlyGv2IUYox7slxE5q7cQV69Bz11f9AAAAA=="
+    },
+    "pano": {
+      "path": "/media/bunk-bed-ladder-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAcAAsBIJYwCdAEfsLSkCHAA/ga33/SjO6dqkQoNLolo7mthsAJJtn1BVTukWzVFG5rHO4tiDhl4Z4sEvp9HDRBfT9uX1BiBAAAA"
+    }
+  },
+  "shoe-rack-curved-b": {
+    "wide": {
+      "path": "/media/shoe-rack-curved-b-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABwAgCdASoMAAkAAsBIJYgCdAYsP2Wfu4xV7e4AAP73Pq9EGqNRHX5Bp1h+vL5qEq8tPuJ5aUHOIZgjMo80yW9geusLCCE6LbcnYzLuzgxPDRttrQd1d7ZPAAA="
+    },
+    "square": {
+      "path": "/media/shoe-rack-curved-b-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoMAAwAAsBIJYgCdADcUko+doAA/vdXSWGy367oFQfq+57IJ7wtID2A09Eon75oyg5a6Oix5haJi8tkv6fsew+StyMc/++ydRLNGRWUiKAAAA=="
+    },
+    "pano": {
+      "path": "/media/shoe-rack-curved-b-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoMAAcAAsBIJYgCdAEVrugSdt6AAP7wr+dncmddN5YDHFKzWvhJZVnWH9nqIsUPq0QZJvHw75ANpf46UmwSqGxniqRsHzQPMsSLgAAA"
+    }
+  },
+  "dressing-table-glass": {
+    "wide": {
+      "path": "/media/dressing-table-glass-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACQAQCdASoMAAkAAsBIJZQAAmb4H3AA/u41AMk5AkJXpqeiqhny2lGj0a7yh4Bx1b3n5iVpcOhbG6Q3AuQuwzneMFJYgAAA"
+    },
+    "square": {
+      "path": "/media/dressing-table-glass-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMAAwAAsBIJZwAAmi2gnLdpgAA/u1hw+He+0r7NCN5pLIl62mOd9XsYJo6OcHPxC2YTUx1e43MfFNTi0vh4FMPn6VJb8AA"
+    },
+    "pano": {
+      "path": "/media/dressing-table-glass-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoMAAcAAsBIJZQAAmh/P3gogAD+4cIFI5gtJyXNU3Njb/jnFyFUDQAoOJuXFSh0G/RDIYzZengrDwXAO3cAAA=="
+    }
+  },
+  "dressing-table-lit": {
+    "wide": {
+      "path": "/media/dressing-table-lit-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABQAgCdASoMAAkAAsBIJbACdH8AF8g+uuxdIoAA/jNOxSNusj7z2HGLRSRcAR6J8iT15F2gSTvkS04xz32TdOgkOw+0/6x7vfUFQBnXAAA="
+    },
+    "square": {
+      "path": "/media/dressing-table-lit-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoMAAwAAsBIJbACdAELhazP1m9LQAD+M0iFrVX3nnTuNIkK8QFMEgll2utdBZwLL7/IFsOVvOlq7mhlIwlM4Wgs/fZkf7p8wyZ39Y93q+LYhYAA"
+    },
+    "pano": {
+      "path": "/media/dressing-table-lit-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAAcAAsBIJbACdAELYyispWAA/XiCxWBzYyxHM7jplO2MYHbjJhgHDQ6NzN8vjUFn76Z9t8jpp2fP7ba0WuVnq4gAAA=="
+    }
+  },
+  "pedestal-dining-table": {
+    "wide": {
+      "path": "/media/pedestal-dining-table-wide.webp",
+      "width": 1600,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoMAAkAAsBIJYgCdAYsZdDNIy6KAAD98E2qnidmLlTpt1lkadbAnIU7pmAz++0LJvhC2phiGJoAQHtyNtlSpMR7y+7slXB+a2+cHiYJCAA="
+    },
+    "square": {
+      "path": "/media/pedestal-dining-table-square.webp",
+      "width": 1200,
+      "height": 1200,
+      "blurDataUrl": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABQAgCdASoMAAwAAsBIJYgCdAYstdDNEwXBTSAA/e/v35ltMHtCB0DHoPYZf5grnrhN5bpPkKSraKCW0j+6IbTPu2RYF7YunDBFHQZN01Byy+TVI/buyVcH5rb5weJlS6gAAA=="
+    },
+    "pano": {
+      "path": "/media/pedestal-dining-table-pano.webp",
+      "width": 1600,
+      "height": 900,
+      "blurDataUrl": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoMAAcAAsBIJYgCdADhl68fwAD8s2qsLtKwIc3/upWR1ejL0Fj4/wjOxy75ugL5M2v+MX2xZQ9BScMpu8wYPBrdRkL6vxMDm9anAAAA"
+    }
+  }
+}

@@ -1,0 +1,313 @@
+@import 'tailwindcss';
+
+/* ---------------------------------------------------------------------------
+   Direction B — "Spec sheet". docs/design-brief.md is binding.
+
+   Every colour, size, radius and duration in this project is declared here and
+   consumed as a token. No component may contain a raw hex value or a default
+   Tailwind palette name.
+
+   Light is the default because a spec sheet is paper. Dark is a true inversion,
+   not a dimming: --ground becomes the page and the raised surface lifts toward
+   it rather than away from it.
+
+   Contrast ratios in the comments were computed against the WCAG 2.x relative
+   luminance formula, not eyeballed. The full table is in docs/progress.md.
+--------------------------------------------------------------------------- */
+
+:root {
+  color-scheme: light;
+
+  /* Surfaces ------------------------------------------------------------- */
+  --paper: #fbfbfa; /* page ground — off-white, deliberately no cream cast */
+  --ground: #0e0f11; /* near-black, slightly cool */
+  --surface: var(--paper);
+  --surface-raised: #ffffff;
+  --surface-sunken: #f2f2f1;
+
+  /* Ink ------------------------------------------------------------------ */
+  --ink: #16181b; /* body text on paper — 16.4:1 */
+  --ink-muted: #5b6067; /* secondary text and annotations — 6.12:1 */
+
+  /* Rules — structural, they replace shadow ------------------------------ */
+  --rule: #d6d8db; /* decorative hairline */
+  --rule-strong: #83898f; /* rule acting as a UI boundary — 3.41:1 */
+
+  /* Accent — focus rings, price emphasis, active state. Nothing else. ----- */
+  --accent: #1f4fd8; /* drafting blue — 6.40:1 on paper */
+  --accent-ink: #ffffff; /* text on an accent fill */
+  --accent-quiet: #e8edfb; /* wash behind a selected swatch */
+
+  /* Status --------------------------------------------------------------- */
+  --warn: #8a5a00;
+  --danger: #a61b1b;
+  --ok: #1e6b3a;
+
+  /* Type scale — 1.200 major third from a 16px base. Modest on purpose:
+     this is a technical document, not a poster. Display steps are fluid. */
+  --step--1: 0.8333rem;
+  --step-0: 1rem;
+  --step-1: 1.2rem;
+  --step-2: 1.44rem;
+  --step-3: clamp(1.44rem, 1.24rem + 0.85vw, 1.728rem);
+  --step-4: clamp(1.728rem, 1.4rem + 1.4vw, 2.074rem);
+  --step-5: clamp(2.074rem, 1.62rem + 1.95vw, 2.488rem);
+  --step-6: clamp(2.488rem, 1.83rem + 2.8vw, 2.986rem);
+
+  --leading-tight: 1.08;
+  --leading-snug: 1.25;
+  --leading-normal: 1.5;
+  --leading-relaxed: 1.65;
+
+  --tracking-tight: -0.022em;
+  --tracking-normal: 0em;
+  --tracking-wide: 0.08em;
+
+  /* Spacing — 4px base, one scale, no arbitrary values in components ------ */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 2.5rem;
+  --space-8: 3rem;
+  --space-9: 4rem;
+  --space-10: 5rem;
+  --space-11: 6rem;
+  --space-12: 8rem;
+
+  /* Radii — a drawing does not have rounded corners ---------------------- */
+  --radius-sm: 2px;
+  --radius-md: 4px;
+
+  /* Motion --------------------------------------------------------------- */
+  --duration-fast: 120ms;
+  --duration-base: 200ms;
+  --duration-slow: 400ms;
+  --ease-out: cubic-bezier(0.2, 0, 0, 1);
+
+  /* Layout --------------------------------------------------------------- */
+  --measure: 68ch; /* readable line length for prose */
+  --viewer-max: 85dvh; /* full-screen image viewer ceiling */
+  --page-max: 90rem;
+  --page-gutter: var(--space-4);
+}
+
+@media (min-width: 48rem) {
+  :root {
+    --page-gutter: var(--space-6);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+
+    --surface: var(--ground);
+    --surface-raised: #17191c;
+    --surface-sunken: #0a0b0c;
+
+    --ink: #fbfbfa; /* 18.5:1 on --ground */
+    --ink-muted: #9aa0a6; /* 7.26:1 */
+
+    --rule: #33373c;
+    --rule-strong: #5f656c; /* 3.26:1 — UI boundary tier */
+
+    --accent: #8faaff; /* 8.55:1 on --ground; #1f4fd8 is only 2.89:1 there */
+    --accent-ink: #0e0f11;
+    --accent-quiet: #16224a;
+
+    --warn: #e3b25c;
+    --danger: #ff8a8a;
+    --ok: #6fca92;
+  }
+}
+
+@theme inline {
+  --color-surface: var(--surface);
+  --color-surface-raised: var(--surface-raised);
+  --color-surface-sunken: var(--surface-sunken);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-rule: var(--rule);
+  --color-rule-strong: var(--rule-strong);
+  --color-accent: var(--accent);
+  --color-accent-ink: var(--accent-ink);
+  --color-accent-quiet: var(--accent-quiet);
+  --color-warn: var(--warn);
+  --color-danger: var(--danger);
+  --color-ok: var(--ok);
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-inter-tight), var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains-mono), ui-monospace, monospace;
+
+  --text-step--1: var(--step--1);
+  --text-step-0: var(--step-0);
+  --text-step-1: var(--step-1);
+  --text-step-2: var(--step-2);
+  --text-step-3: var(--step-3);
+  --text-step-4: var(--step-4);
+  --text-step-5: var(--step-5);
+  --text-step-6: var(--step-6);
+
+  --leading-tight: var(--leading-tight);
+  --leading-snug: var(--leading-snug);
+  --leading-normal: var(--leading-normal);
+  --leading-relaxed: var(--leading-relaxed);
+
+  --tracking-tight: var(--tracking-tight);
+  --tracking-normal: var(--tracking-normal);
+  --tracking-wide: var(--tracking-wide);
+
+  --radius-sm: var(--radius-sm);
+  --radius-md: var(--radius-md);
+
+  --ease-out: var(--ease-out);
+
+  --breakpoint-xs: 30rem;
+
+  /* 4px base drives the numeric spacing scale: p-1 = 4px, p-6 = 24px. */
+  --spacing: 0.25rem;
+}
+
+/* ---------------------------------------------------------------------------
+   Base
+--------------------------------------------------------------------------- */
+
+@layer base {
+  html {
+    background-color: var(--surface);
+    color: var(--ink);
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    font-family: var(--font-sans);
+    font-size: var(--step-0);
+    line-height: var(--leading-normal);
+  }
+
+  :is(h1, h2, h3, h4) {
+    font-family: var(--font-display);
+    font-weight: 600;
+    letter-spacing: var(--tracking-tight);
+    line-height: var(--leading-tight);
+    text-wrap: balance;
+  }
+
+  /* `text-wrap: pretty` runs a multi-line optimisation pass, so it is scoped to
+     running copy rather than applied to every <p> on the page — it showed up in
+     the Style & Layout figure on a Lighthouse mobile run. */
+  .prose-copy p,
+  .prose-copy li {
+    text-wrap: pretty;
+  }
+
+  /* Focus is part of the design language, never the browser default. */
+  :focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+    border-radius: var(--radius-sm);
+  }
+
+  ::selection {
+    background: var(--accent);
+    color: var(--accent-ink);
+  }
+
+  /* Tabular figures wherever a number is compared against another number. */
+  .tnum {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Signature element — dimension annotations drawn over a product photograph.
+
+   Geometry comes from data (products.dimensions plus per-image anchor points on
+   media_assets), so this is a drawing, not a hand-placed decoration.
+--------------------------------------------------------------------------- */
+
+@layer components {
+  .dimension-figure {
+    --dim-opacity: 0;
+    --dim-draw: 0;
+    position: relative;
+  }
+
+  /* Focus counts, not only hover — the annotations must be keyboard reachable. */
+  .dimension-figure:hover,
+  .dimension-figure:focus-within,
+  .dimension-figure[data-annotated='true'] {
+    --dim-opacity: 1;
+    --dim-draw: 1;
+  }
+
+  .dimension-layer {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: var(--dim-opacity);
+    transition: opacity var(--duration-base) var(--ease-out);
+  }
+
+  /* The draw-on. Lines grow from their origin rather than fading in, which is
+     how a dimension gets added to a drawing. */
+  .dim-line-h {
+    transform: scaleX(var(--dim-draw));
+    transform-origin: left center;
+    transition: transform var(--duration-slow) var(--ease-out);
+  }
+
+  .dim-line-v {
+    transform: scaleY(var(--dim-draw));
+    transform-origin: center top;
+    transition: transform var(--duration-slow) var(--ease-out);
+  }
+
+  /* Below 480px the annotations would cover the piece, so the overlay is
+     withdrawn entirely and the card's dimension strip carries the numbers. */
+  @media (max-width: 29.999rem) {
+    .dimension-layer,
+    .dimension-toggle {
+      display: none;
+    }
+  }
+
+  /* Faint 12-column rules, visible at desktop widths only. Part of the
+     vernacular: a listing sits on a grid you can see. */
+  .column-rules {
+    background-image: repeating-linear-gradient(
+      to right,
+      var(--rule) 0 1px,
+      transparent 1px calc(100% / 12)
+    );
+    background-repeat: repeat-x;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  /* The annotations still appear — they just do not draw themselves on. */
+  .dimension-layer,
+  .dim-line-h,
+  .dim-line-v {
+    transition: none !important;
+  }
+
+  /* Annotations still appear at full extent — they just do not draw themselves on. */
+  .dim-line-h,
+  .dim-line-v {
+    transform: none !important;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
