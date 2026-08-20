@@ -19,13 +19,66 @@ export const SITE_DESCRIPTION =
   'Hardwood furniture made to order in Nairobi. Every piece is listed with its ' +
   'dimensions, materials and lead time, and you pay when it arrives.';
 
-export const CURRENCY = process.env.NEXT_PUBLIC_CURRENCY ?? 'KES';
+/**
+ * An environment variable that exists but is empty is the same as missing.
+ *
+ * `??` does not catch this: a Vercel project variable added without a value
+ * arrives as `''`, which is a string, so `??` passes it straight through. That
+ * turned `new URL('')` into a build failure. Everything read from the
+ * environment goes through here.
+ */
+function env(name: string): string | null {
+  const raw = process.env[name];
+  if (typeof raw !== 'string') return null;
+  const trimmed = raw.trim();
+  return trimmed === '' ? null : trimmed;
+}
+
+export const CURRENCY = env('NEXT_PUBLIC_CURRENCY') ?? 'KES';
 export const LOCALE = 'en-KE';
 export const OG_LOCALE = 'en_KE';
 
+/**
+ * The origin every canonical, sitemap entry and OG image URL is built from.
+ *
+ * Order of preference:
+ *   1. NEXT_PUBLIC_SITE_URL — the real domain, once there is one.
+ *   2. The Vercel production domain, so a deploy without step 1 still produces
+ *      working absolute URLs instead of failing the build or emitting localhost.
+ *   3. localhost, for development.
+ *
+ * This must never throw. A malformed value degrades to the next option rather
+ * than taking the whole build down, because an unusable canonical is a bad day
+ * and a failed build is a worse one.
+ */
 export function siteUrl(): string {
-  const raw = process.env.NEXT_PUBLIC_SITE_URL ?? 'http://localhost:3000';
-  return raw.replace(/\/$/, '');
+  const candidates = [
+    env('NEXT_PUBLIC_SITE_URL'),
+    // Vercel supplies these without a protocol.
+    withProtocol(env('NEXT_PUBLIC_VERCEL_PROJECT_PRODUCTION_URL')),
+    withProtocol(env('VERCEL_PROJECT_PRODUCTION_URL')),
+    withProtocol(env('NEXT_PUBLIC_VERCEL_URL')),
+    withProtocol(env('VERCEL_URL')),
+    'http://localhost:3000',
+  ];
+
+  for (const candidate of candidates) {
+    if (!candidate) continue;
+    try {
+      const url = new URL(candidate);
+      if (url.protocol !== 'http:' && url.protocol !== 'https:') continue;
+      return url.origin;
+    } catch {
+      // Not a usable URL — try the next candidate.
+    }
+  }
+
+  return 'http://localhost:3000';
+}
+
+function withProtocol(host: string | null): string | null {
+  if (!host) return null;
+  return /^https?:\/\//.test(host) ? host : `https://${host}`;
 }
 
 /** Placeholder until the Google Business Profile is confirmed. */

@@ -6,8 +6,19 @@ import type { NextConfig } from 'next';
  * derived from the same env var the data layer reads, so the two cannot drift and
  * no project ref is hardcoded.
  */
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
-const supabaseHost = supabaseUrl ? new URL(supabaseUrl) : undefined;
+// An env var that exists but is empty behaves like a missing one, and a
+// malformed one must not take the build down — next.config runs before
+// anything else, so a throw here fails the whole deploy.
+function optionalUrl(value: string | undefined): URL | undefined {
+  if (!value || value.trim() === '') return undefined;
+  try {
+    return new URL(value.trim());
+  } catch {
+    return undefined;
+  }
+}
+
+const supabaseHost = optionalUrl(process.env.NEXT_PUBLIC_SUPABASE_URL);
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
